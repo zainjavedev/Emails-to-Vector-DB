@@ -1,0 +1,10 @@
+credentials.yml
+*.log
+*.tmp
+*.swp
+*.swo
+chromadb
+/chromadb
+.venv
+/venv
+/.venv
