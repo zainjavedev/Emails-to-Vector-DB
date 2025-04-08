@@ -237,7 +237,7 @@ def main():
     context = "\n\n".join(retrieved_chunks)
 
     # Call OpenRouter LLM
-    api_key = "YOUR OPENROUTER_API_KEY"
+    api_key = os.getenv("OPENROUTER_API_KEY")
     answer = call_openrouter_llm(context, query, api_key)
 
     print("\n🧠 Answer:\n", answer)
