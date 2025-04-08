@@ -60,13 +60,5 @@ def fetch_and_store_emails(num_emails=10):
 
 
 fetch_and_store_emails()
-
-# Example usage to query ChromaDB (optional)
-# results = collection.query(
-#     query_texts=["summary of the email"],
-#     n_results=2
-# )
-# print(results)
-
 my_email.close()
 my_email.logout()
