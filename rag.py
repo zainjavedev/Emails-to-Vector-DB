@@ -179,9 +179,11 @@ def call_openrouter_llm(context: str, query: str, api_key: str) -> str:
     import requests
 
     system_prompt = (
-        "You are a helpful assistant. Only answer questions using the provided context. "
-        "If the question is not related to computers or the given content, say: "
-        "'I only know about computers.'"
+        "You are a strict assistant. You must answer only if the provided context contains the answer "
+        "and the question is about computers. If not, respond with exactly: 'I only know about computers.' "
+        "Do not say anything else. Do not explain. Do not reference the context, the question, or limitations. "
+        "If unsure or the answer is not directly in context, say only: 'I only know about computers.' "
+        "Never say anything else."
     )
 
     payload = {
@@ -215,7 +217,7 @@ def main():
     """Main function to demonstrate PDF processing and searching."""
     # Path to your PDF file
     pdf_path = "data/Ch.01_Introduction_ to_computers.pdf"
-
+    query = input("Enter your query: ")
     # Processing options
     options = {
         "chunk_size": 1000,
@@ -228,7 +230,6 @@ def main():
     logger.info(f"Processed PDF with {result['chunk_count']} chunks")
 
     ## Perform a search
-    query = input("Enter your query: ")
     search_results = perform_search(result["collection"], query, n_results=3)
 
     # Get top chunks as context
@@ -236,7 +237,7 @@ def main():
     context = "\n\n".join(retrieved_chunks)
 
     # Call OpenRouter LLM
-    api_key = os.getenv("API_KEY")
+    api_key = "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"
     answer = call_openrouter_llm(context, query, api_key)
 
     print("\n🧠 Answer:\n", answer)
