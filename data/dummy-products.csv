@@ -1,0 +1,1001 @@
+id,name,price,img_url,color,category,description
+1,Ground Turkey,5.49,http://dummyimage.com/111x100.png/dddddd/000000,Fuscia,Food - Meat,"Lean and versatile ground turkey, perfect for various dishes."
+2,Cabbage Slaw Mix,2.29,http://dummyimage.com/137x100.png/dddddd/000000,Teal,Food - Vegetables,Fresh cabbage and carrot slaw mix for salads.
+3,Ultraviolet Phone Sanitizer,39.99,http://dummyimage.com/149x100.png/dddddd/000000,Crimson,Health,UV sanitizer that kills germs on your smartphone.
+4,Canned Coconut Milk,1.89,http://dummyimage.com/172x100.png/ff4444/ffffff,Teal,Food - Canned Goods,"Rich coconut milk, great for cooking and baking."
+5,Honey Mustard Sauce,3.29,http://dummyimage.com/107x100.png/dddddd/000000,Khaki,Food - Condiments,Creamy honey mustard sauce for dipping or dressing.
+6,Curried Lentil Salad,4.29,http://dummyimage.com/239x100.png/ff4444/ffffff,Khaki,Food - Salads,"A hearty salad with lentils, veggies, and curry dressing."
+7,Herbal Tea Sampler Box,29.99,http://dummyimage.com/111x100.png/dddddd/000000,Violet,Food,Assorted collection of herbal teas for relaxation and wellness.
+8,Pasta (Fusilli),1.79,http://dummyimage.com/125x100.png/dddddd/000000,Puce,Food - Pasta,Twisted pasta perfect for salads and pasta dishes.
+9,Winter Insulated Jacket,89.99,http://dummyimage.com/100x100.png/ff4444/ffffff,Red,Clothing,Warm and stylish jacket for cold weather.
+10,Roasted Sweet Corn,1.99,http://dummyimage.com/206x100.png/dddddd/000000,Turquoise,Food - Frozen,Sweet corn roasted to perfection for a delightful side.
+11,Coffee Maker,89.99,http://dummyimage.com/235x100.png/ff4444/ffffff,Indigo,Kitchen,Single-serve coffee maker with a built-in grinder.
+12,Portable Bluetooth Speaker,49.99,http://dummyimage.com/202x100.png/dddddd/000000,Yellow,Audio,Compact Bluetooth speaker with rich sound quality.
+13,Sliced Provolone Cheese,3.99,http://dummyimage.com/129x100.png/cc0000/ffffff,Mauv,Food - Dairy,Mild cheese great for sandwiches.
+14,Smart Wi-Fi Light Bulbs,19.99,http://dummyimage.com/110x100.png/cc0000/ffffff,Blue,Smart Home,Energy-efficient LED bulbs that can be controlled via smartphone.
+15,Sliced Bell Peppers,3.99,http://dummyimage.com/178x100.png/5fa2dd/ffffff,Goldenrod,Food - Fresh Produce,Fresh sliced bell peppers for salads or stir-fries.
+16,Luxury Bath Salts,19.99,http://dummyimage.com/108x100.png/cc0000/ffffff,Goldenrod,Beauty,Scented bath salts for relaxation and self-care.
+17,Honey Roasted Peanuts,3.19,http://dummyimage.com/206x100.png/dddddd/000000,Indigo,Food - Snacks,"Crunchy peanuts coated in honey, perfect for snacking."
+18,Smartphone Projector,29.99,http://dummyimage.com/139x100.png/dddddd/000000,Crimson,Electronics,DIY projector that magnifies your smartphone screen for movie nights.
+19,Fitness Tracker with Heart Rate Monitor,59.99,http://dummyimage.com/134x100.png/5fa2dd/ffffff,Violet,Fitness,Wearable device to track fitness activities and heart rate.
+20,Almond Butter,6.49,http://dummyimage.com/176x100.png/5fa2dd/ffffff,Puce,Food - Condiments,Creamy almond butter made from roasted almonds.
+21,Pasta (Fusilli),1.79,http://dummyimage.com/164x100.png/ff4444/ffffff,Orange,Food - Pasta,Twisted pasta perfect for salads and pasta dishes.
+22,Jennifer's Amazing Lip Balm Kit,22.99,http://dummyimage.com/107x100.png/dddddd/000000,Maroon,Beauty,DIY kit to make your own lip balms in various flavors.
+23,Grapes (red),3.49,http://dummyimage.com/124x100.png/cc0000/ffffff,Violet,Food - Produce,"Fresh seedless red grapes, perfect for snacking."
+24,LED Christmas Lights,29.99,http://dummyimage.com/248x100.png/ff4444/ffffff,Teal,Home,Eco-friendly LED lights for festive decorations.
+25,Pomegranate Juice,4.49,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Violet,Food - Beverages,"Fresh pomegranate juice, rich in antioxidants."
+26,Sriracha Sauce,3.19,http://dummyimage.com/207x100.png/5fa2dd/ffffff,Indigo,Food - Condiments,Spicy chili sauce for an extra kick in your meals.
+27,Pleated Midi Dress,79.99,http://dummyimage.com/123x100.png/5fa2dd/ffffff,Violet,Clothing - Dresses,"A stylish midi dress with stylish pleats, suitable for any occasion."
+28,Berry Smoothie Mix,4.99,http://dummyimage.com/145x100.png/cc0000/ffffff,Blue,Food - Frozen Foods,Frozen mix for quick berry smoothies.
+29,Portable Solar Phone Charger,29.99,http://dummyimage.com/147x100.png/dddddd/000000,Aquamarine,Electronics,Eco-friendly charger that uses solar energy for powering devices.
+30,Hydration Backpack,39.99,http://dummyimage.com/182x100.png/ff4444/ffffff,Purple,Outdoor,Lightweight backpack with an insulated water reservoir for hydration on the go.
+31,Reversible Comforter Set,89.99,http://dummyimage.com/186x100.png/ff4444/ffffff,Khaki,Home,Soft comforter set for a cozy bedroom look.
+32,Chili Garlic Sauce,2.49,http://dummyimage.com/124x100.png/5fa2dd/ffffff,Red,Food - Condiments,"Spicy sauce made with chili peppers and garlic, great for stir-frying."
+33,Electric Heat Pad,24.99,http://dummyimage.com/232x100.png/5fa2dd/ffffff,Purple,Health,Microwaveable heat pad for soothing muscle aches.
+34,Waffle Maker,39.99,http://dummyimage.com/161x100.png/5fa2dd/ffffff,Crimson,Kitchen,Make delicious waffles with this user-friendly device.
+35,Set of Silicone Cooking Utensils,29.99,http://dummyimage.com/156x100.png/cc0000/ffffff,Puce,Kitchen,Non-stick utensils for safe and easy cooking.
+36,LED Desk Lamp with USB Charging Port,29.99,http://dummyimage.com/121x100.png/ff4444/ffffff,Teal,Office,Modern lamp featuring a USB port for convenient charging.
+37,Vegan Caesar Dressing,3.99,http://dummyimage.com/122x100.png/cc0000/ffffff,Crimson,Food - Condiments,"Creamy vegan dressing made with cashews, perfect for salads."
+38,Portable Pet Stroller,89.99,http://dummyimage.com/146x100.png/cc0000/ffffff,Green,Pets,Convenient stroller for pets to enjoy outdoor walks.
+39,Ergonomic Gaming Chair,199.99,http://dummyimage.com/205x100.png/ff4444/ffffff,Pink,Gaming,Comfortable gaming chair for long hours of play.
+40,Heavy-Duty Utility Tote,34.99,http://dummyimage.com/162x100.png/dddddd/000000,Teal,Accessories,"Large, durable tote bag for shopping and outdoor activities."
+41,Asian Noodle Salad Kit,4.99,http://dummyimage.com/242x100.png/ff4444/ffffff,Khaki,Food - Salads,A pre-packaged salad kit with noodles and Asian-style dressing.
+42,Electric Heat Pad,24.99,http://dummyimage.com/116x100.png/ff4444/ffffff,Orange,Health,Microwaveable heat pad for soothing muscle aches.
+43,Walnut Halves,8.49,http://dummyimage.com/163x100.png/5fa2dd/ffffff,Maroon,Food - Nuts,Fresh walnut halves for baking or snacking.
+44,Basil Lemonade,2.99,http://dummyimage.com/185x100.png/dddddd/000000,Teal,Food - Beverages,Refreshing basil-infused lemonade for a cool drink.
+45,Mashed Sweet Potatoes,3.99,http://dummyimage.com/221x100.png/ff4444/ffffff,Maroon,Food - Sides,Creamy mashed sweet potatoes with a hint of cinnamon.
+46,Organic Almond Flour,6.99,http://dummyimage.com/146x100.png/ff4444/ffffff,Puce,Food - Baking,Finely ground almonds for baking or cooking
+47,Tomatillo Salsa,3.29,http://dummyimage.com/136x100.png/dddddd/000000,Violet,Food - Condiments,Tangy salsa made from tomatillos and peppers.
+48,Puzzle 3D Model Kit,22.99,http://dummyimage.com/155x100.png/dddddd/000000,Khaki,Toys,3D model puzzle kit for creative builders.
+49,Bamboo Toothbrush Holder,14.99,http://dummyimage.com/115x100.png/5fa2dd/ffffff,Violet,Health,Eco-friendly bamboo holder for toothbrushes.
+50,Interactive Robot Toy,34.99,http://dummyimage.com/218x100.png/dddddd/000000,Red,Toys,Fun robot that engages kids with games and activities.
+51,Pineapple Coconut Bars,3.79,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Yellow,Food - Snacks,Refreshing dessert bars made with pineapple and coconut.
+52,Wall Art Stickers,19.99,http://dummyimage.com/146x100.png/ff4444/ffffff,Teal,Home,Removable wall art stickers for home decoration.
+53,Handmade Leather Wallet,49.99,http://dummyimage.com/153x100.png/ff4444/ffffff,Maroon,Accessories,High-quality leather wallet with multiple compartments.
+54,Paint By Numbers Kit,24.99,http://dummyimage.com/124x100.png/5fa2dd/ffffff,Khaki,Art Supplies,Relaxing paint kit with pre-printed canvas for painting.
+55,Chopping Board,29.99,http://dummyimage.com/135x100.png/dddddd/000000,Goldenrod,Kitchen,Reversible bamboo chopping board for food prep.
+56,Fridge Magnet Set,15.99,http://dummyimage.com/246x100.png/dddddd/000000,Turquoise,Home,Fun fridge magnets to decorate your kitchen.
+57,Electric Screwdriver,59.99,http://dummyimage.com/189x100.png/ff4444/ffffff,Aquamarine,Tools,Cordless electric screwdriver for home projects.
+58,Ethically-Sourced Coffee Beans,9.99,http://dummyimage.com/131x100.png/5fa2dd/ffffff,Crimson,Food - Beverages,Freshly roasted coffee beans with rich flavor.
+59,Chia Seed Pudding Mix,4.19,http://dummyimage.com/193x100.png/cc0000/ffffff,Blue,Food - Breakfast,Mix to create a delicious chia seed pudding in just a few minutes.
+60,Beef Tacos,5.49,http://dummyimage.com/100x100.png/ff4444/ffffff,Puce,Food - Meat,"Pre-seasoned beef mix for delicious tacos, just heat and serve."
+61,Classic Caesar Dressing,3.49,http://dummyimage.com/168x100.png/cc0000/ffffff,Puce,Food - Condiments,Rich and creamy Caesar dressing for salads and wraps.
+62,Wrap Front Midi Skirt,44.99,http://dummyimage.com/154x100.png/ff4444/ffffff,Aquamarine,Clothing - Bottoms,"Elegant midi skirt with a wrap design, great for both formal and casual events."
+63,Organic Green Tea,4.29,http://dummyimage.com/178x100.png/cc0000/ffffff,Orange,Food - Beverages,Delicate green tea leaves for a refreshing beverage.
+64,Oven-Baked Chicken Tenders,6.99,http://dummyimage.com/118x100.png/cc0000/ffffff,Red,Food - Meat,"Crispy and juicy chicken tenders, perfect for dipping."
+65,Kid's Fruit Snacks,2.49,http://dummyimage.com/243x100.png/ff4444/ffffff,Fuscia,Food - Snacks,Assorted fruit-flavored gummy snacks that kids love.
+66,LED Christmas Tree Lights,34.99,http://dummyimage.com/114x100.png/ff4444/ffffff,Aquamarine,Home,String lights for decorating holiday trees.
+67,Organic Quinoa Salad,5.99,http://dummyimage.com/248x100.png/dddddd/000000,Indigo,Food - Prepared Meals,A refreshing salad made with quinoa and seasonal veggies.
+68,Noise Reduction Headphones,39.99,http://dummyimage.com/224x100.png/5fa2dd/ffffff,Fuscia,Audio,Passive noise reduction headphones for focus.
+69,LED Canopy Lights,29.99,http://dummyimage.com/160x100.png/cc0000/ffffff,Puce,Outdoor,Energy-efficient lights to illuminate outdoor areas.
+70,Beach Cover-Up,29.99,http://dummyimage.com/245x100.png/ff4444/ffffff,Red,Clothing - Swimwear,"Lightweight cover-up perfect for the beach, with a breezy design."
+71,Window Bird Feeder,19.99,http://dummyimage.com/101x100.png/ff4444/ffffff,Aquamarine,Outdoor,Suction cup bird feeder for close-up bird watching.
+72,Plant-Based Protein Bars,19.99,http://dummyimage.com/179x100.png/ff4444/ffffff,Red,Health,Nutritious protein bars for on-the-go snacking.
+73,Tattoo Kit,99.99,http://dummyimage.com/140x100.png/cc0000/ffffff,Crimson,Art Supplies,Complete tattoo kit for beginners and professionals.
+74,Sweet Corn,1.5,http://dummyimage.com/143x100.png/ff4444/ffffff,Red,Food - Canned Goods,"Tender sweet corn kernels, ready to eat or add to dishes."
+75,Graphic Print Leggings,29.99,http://dummyimage.com/100x100.png/dddddd/000000,Orange,Clothing - Activewear,"Trendy leggings with a unique graphic print, versatile for workouts and casual wear."
+76,Noise Reduction Headphones,39.99,http://dummyimage.com/132x100.png/cc0000/ffffff,Puce,Audio,Passive noise reduction headphones for focus.
+77,Puzzle Game Set,34.99,http://dummyimage.com/226x100.png/dddddd/000000,Pink,Toys,Challenging puzzle game set for family entertainment.
+78,Smartphone Photography Ring Light,29.99,http://dummyimage.com/220x100.png/5fa2dd/ffffff,Red,Photography,Portable ring light that enhances your photos with perfect lighting.
+79,Multi-Function Smartphone Holder,12.99,http://dummyimage.com/173x100.png/5fa2dd/ffffff,Fuscia,Electronics,"Versatile holder that can be used on desks, cars, and more."
+80,Tandoori Chicken Marinade,2.49,http://dummyimage.com/236x100.png/5fa2dd/ffffff,Teal,Food - Condiments,Delicious and tangy marinade for grilling or baking chicken.
+81,Pesto Pasta Salad,4.99,http://dummyimage.com/119x100.png/ff4444/ffffff,Blue,Food - Prepared Foods,Cold pasta salad tossed with pesto and fresh vegetables.
+82,Personalized Pet ID Tags,9.99,http://dummyimage.com/173x100.png/dddddd/000000,Purple,Pets,Custom engraved ID tags for pets with your contact information.
+83,Basil Lemonade,2.99,http://dummyimage.com/222x100.png/5fa2dd/ffffff,Puce,Food - Beverages,Refreshing basil-infused lemonade for a cool drink.
+84,Oven-Baked Chicken Tenders,6.99,http://dummyimage.com/101x100.png/5fa2dd/ffffff,Aquamarine,Food - Meat,"Crispy and juicy chicken tenders, perfect for dipping."
+85,Lockable Bicycle Chain,19.99,http://dummyimage.com/172x100.png/cc0000/ffffff,Fuscia,Outdoor,Heavy-duty chain lock for securing bicycles.
+86,Mediterranean Olives,6.49,http://dummyimage.com/135x100.png/cc0000/ffffff,Red,Food - Condiments,A mix of brined Mediterranean olives for snacking.
+87,Pet Hair Vacuum Attachment,14.99,http://dummyimage.com/192x100.png/cc0000/ffffff,Khaki,Pets,Special attachment for vacuum cleaners to remove pet hair easily.
+88,Laundry Detergent,12.99,http://dummyimage.com/184x100.png/5fa2dd/ffffff,Orange,Food - Household,Effective laundry detergent for a deep clean.
+89,Smart Scale,59.99,http://dummyimage.com/155x100.png/5fa2dd/ffffff,Indigo,Health,Wi-Fi smart scale for tracking weight and BMI.
+90,Cinnamon Raisin Bagels,4.19,http://dummyimage.com/204x100.png/cc0000/ffffff,Green,Food - Bakery,Soft bagels flavored with cinnamon and raisins.
+91,Caramelized Onion Dip,3.99,http://dummyimage.com/177x100.png/cc0000/ffffff,Yellow,Food - Dairy,"Creamy dip made with caramelized onions, perfect for chips or veggies."
+92,Almond Flour Cookies,4.99,http://dummyimage.com/242x100.png/cc0000/ffffff,Violet,Food - Bakery,Delicious cookies made with almond flour for a gluten-free treat.
+93,Mediterranean Couscous Salad,5.49,http://dummyimage.com/189x100.png/dddddd/000000,Crimson,Food - Salads,"Couscous salad with cucumbers, tomatoes, feta, and olives, ready to eat."
+94,Hummus,4.29,http://dummyimage.com/187x100.png/dddddd/000000,Pink,Food - Snacks,"Creamy chickpea dip, perfect for veggies or pita."
+95,Travel Shoe Bags Set,15.99,http://dummyimage.com/247x100.png/5fa2dd/ffffff,Fuscia,Travel,Set of breathable bags for organizing shoes while traveling.
+96,Pet Travel Carrier,39.99,http://dummyimage.com/237x100.png/dddddd/000000,Fuscia,Pets,Comfortable carrier for small pets during travel.
+97,Outdoor Camping Hammock,29.99,http://dummyimage.com/203x100.png/5fa2dd/ffffff,Khaki,Outdoor,Lightweight and durable hammock for relaxing in nature.
+98,Savory Italian Herbs,2.99,http://dummyimage.com/218x100.png/5fa2dd/ffffff,Goldenrod,Food - Spices,A blend of dried Italian herbs for cooking.
+99,Black Bean & Corn Salad,3.99,http://dummyimage.com/162x100.png/dddddd/000000,Red,Food - Salads,"A fresh salad made with black beans, corn, and a zesty dressing, great for summer cookouts."
+100,Drone,249.99,http://dummyimage.com/140x100.png/cc0000/ffffff,Mauv,Electronics,Beginner-friendly drone with HD camera.
+101,Caramel Sauce,3.49,http://dummyimage.com/127x100.png/cc0000/ffffff,Aquamarine,Food - Condiments,Rich sauce for desserts and ice cream.
+102,Wireless Gaming Mouse,39.99,http://dummyimage.com/198x100.png/5fa2dd/ffffff,Red,Gaming,Ergonomic mouse designed for gamers with high DPI.
+103,LED Flashing Pet Collar,14.99,http://dummyimage.com/187x100.png/dddddd/000000,Green,Pets,Safety collar with flashing lights for pets during night walks.
+104,Creamy Garlic Mashed Potatoes,3.99,http://dummyimage.com/207x100.png/ff4444/ffffff,Puce,Food - Sides,Rich and buttery mashed potatoes with roasted garlic.
+105,Organic Spinach,2.99,http://dummyimage.com/115x100.png/dddddd/000000,Green,Food - Produce,"Fresh organic spinach, great for salads or cooking."
+106,Strawberry Banana Smoothie Pack,4.99,http://dummyimage.com/212x100.png/ff4444/ffffff,Puce,Food - Frozen,Frozen smoothie pack with strawberries and bananas.
+107,Tennis Racket,89.99,http://dummyimage.com/115x100.png/cc0000/ffffff,Mauv,Fitness,Lightweight tennis racket for beginners and advanced players.
+108,Greek Yogurt,1.99,http://dummyimage.com/204x100.png/5fa2dd/ffffff,Khaki,Food - Dairy,Creamy Greek yogurt packed with protein and probiotics.
+109,Organic Coconut Sugar,4.19,http://dummyimage.com/142x100.png/cc0000/ffffff,Teal,Food - Baking Goods,"A natural sweetener made from coconut sap, a healthier alternative to sugar."
+110,Smart Plant Monitor,24.99,http://dummyimage.com/125x100.png/dddddd/000000,Puce,Garden,Device that tracks soil moisture and provides care tips.
+111,Rechargeable Laptop Battery Pack,49.99,http://dummyimage.com/197x100.png/dddddd/000000,Teal,Electronics,Portable battery pack to charge laptops while on the move.
+112,Set of Silicone Cooking Utensils,29.99,http://dummyimage.com/188x100.png/5fa2dd/ffffff,Teal,Kitchen,Non-stick utensils for safe and easy cooking.
+113,Key Finder,19.99,http://dummyimage.com/148x100.png/5fa2dd/ffffff,Khaki,Accessories,Bluetooth-enabled key tracker to find lost items easily.
+114,Cold Brew Coffee Concentrate,7.99,http://dummyimage.com/123x100.png/cc0000/ffffff,Green,Food - Beverages,"Rich and smooth cold brew coffee concentrate, just add water or milk."
+115,Multi-Cooker,89.99,http://dummyimage.com/192x100.png/dddddd/000000,Teal,Kitchen,Versatile multi-cooker for pressure cooking and slow cooking.
+116,Electric Toothbrush Holder,14.99,http://dummyimage.com/186x100.png/dddddd/000000,Indigo,Health,Sanitary holder that ensures your toothbrush stays clean.
+117,Pepperoni Pizza Rolls,6.99,http://dummyimage.com/233x100.png/5fa2dd/ffffff,Maroon,Food - Snacks,"Savory pizza rolls filled with pepperoni and cheese, ready to bake and enjoy in minutes."
+118,Kids' Science Experiment Kit,29.99,http://dummyimage.com/124x100.png/5fa2dd/ffffff,Red,Toys,Engaging kit with science experiments for children.
+119,Peach Halves (canned),2.49,http://dummyimage.com/225x100.png/dddddd/000000,Yellow,Food - Canned Goods,"Sweet peach halves packed in juice, great for desserts."
+120,Spicy Garlic Edamame,3.99,http://dummyimage.com/111x100.png/5fa2dd/ffffff,Aquamarine,Food - Snacks,"Steamed edamame tossed in a spicy garlic sauce, great for snacking."
+121,Smart Water Bottle,39.99,http://dummyimage.com/247x100.png/cc0000/ffffff,Khaki,Fitness,Water bottle that tracks your hydration levels.
+122,Customizable Wall Calendar,24.99,http://dummyimage.com/177x100.png/cc0000/ffffff,Aquamarine,Office,Personalize your calendar with photos and special dates.
+123,Chocolate Raspberry Tart,9.99,http://dummyimage.com/157x100.png/5fa2dd/ffffff,Indigo,Food - Bakery,"Rich tart filled with chocolate and raspberry, a gourmet dessert."
+124,Black Bean Salsa,3.49,http://dummyimage.com/121x100.png/dddddd/000000,Aquamarine,Food - Snacks,Spicy salsa made with black beans and tomatoes.
+125,Cauliflower Pizza Crust,5.99,http://dummyimage.com/137x100.png/5fa2dd/ffffff,Green,Food - Frozen Foods,Healthy pizza crust made from cauliflower
+126,Insulated Wine Tote,24.99,http://dummyimage.com/114x100.png/ff4444/ffffff,Indigo,Accessories,Stylish tote to keep wine bottles chilled while traveling.
+127,Honey Sesame Chicken,8.99,http://dummyimage.com/157x100.png/dddddd/000000,Mauv,Food - Frozen Food,A delicious chicken dish featuring honey and sesame flavors.
+128,Cranberry Almond Biscotti,4.19,http://dummyimage.com/140x100.png/dddddd/000000,Khaki,Food - Bakery,Crispy and delicious biscotti flavored with cranberry and almond.
+129,Kitchen Scale,19.99,http://dummyimage.com/117x100.png/5fa2dd/ffffff,Purple,Kitchen,Digital scale for precise cooking measurements.
+130,Teriyaki Chicken Wings,10.99,http://dummyimage.com/114x100.png/5fa2dd/ffffff,Red,Food - Frozen Food,Flavorful chicken wings marinated in a sweet teriyaki glaze.
+131,Baked Falafel Balls,5.99,http://dummyimage.com/166x100.png/5fa2dd/ffffff,Aquamarine,Food - Frozen Vegetables,"Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads."
+132,Rice Noodles,3.49,http://dummyimage.com/145x100.png/dddddd/000000,Blue,Food - Grains,"Thin rice noodles, ideal for stir-fries and soups."
+133,Shower Curtain Hooks,12.99,http://dummyimage.com/237x100.png/5fa2dd/ffffff,Crimson,Home,Stylish hooks to easily hang shower curtains.
+134,Chia Seed Pudding Mix,4.19,http://dummyimage.com/163x100.png/5fa2dd/ffffff,Violet,Food - Breakfast,Mix to create a delicious chia seed pudding in just a few minutes.
+135,Cooking Utensil Set,24.99,http://dummyimage.com/218x100.png/dddddd/000000,Teal,Kitchen,Complete set of cooking utensils made from bamboo.
+136,Smartphone Camera Lens Kit,19.99,http://dummyimage.com/116x100.png/cc0000/ffffff,Green,Photography,Upgrade your phone photography with this lens kit that includes wide-angle and macro lenses.
+137,Italian Sausage and Peppers,8.99,http://dummyimage.com/250x100.png/5fa2dd/ffffff,Yellow,Food - Meat,A flavorful blend of Italian sausage with sautéed peppers and onions.
+138,Lemon Basil Pasta Sauce,4.99,http://dummyimage.com/155x100.png/dddddd/000000,Crimson,Food - Sauces,A tangy sauce that combines lemon zest and basil for a refreshing flavor.
+139,Greek Feta Cheese,4.99,http://dummyimage.com/243x100.png/dddddd/000000,Maroon,Food - Dairy,Creamy and crumbly cheese for salads and dishes.
+140,Laptop Sleeve,24.99,http://dummyimage.com/134x100.png/cc0000/ffffff,Crimson,Accessories,Padded laptop sleeve for protection against scratches.
+141,Digital Bullet Journal,24.99,http://dummyimage.com/243x100.png/ff4444/ffffff,Fuscia,Apps,Stylish digital journaling app for notes and organizing tasks.
+142,Fruit and Nut Energy Bites,2.99,http://dummyimage.com/185x100.png/ff4444/ffffff,Puce,Food - Snacks,Natural energy bites packed with fruits and nuts for a perfect snack.
+143,Teriyaki Chicken Bowl,6.49,http://dummyimage.com/222x100.png/5fa2dd/ffffff,Aquamarine,Food - Prepared Meals,Ready-to-eat chicken bowl with teriyaki sauce and rice.
+144,Pet Safety Belt for Car,14.99,http://dummyimage.com/182x100.png/ff4444/ffffff,Orange,Pets,Seat belt attachment to keep dogs safe during car rides.
+145,Fettuccine Alfredo Dinner Kit,5.49,http://dummyimage.com/103x100.png/cc0000/ffffff,Green,Food - Prepared Meals,Easy meal kit for creamy fettuccine Alfredo.
+146,Flavored Rice Cakes,2.49,http://dummyimage.com/129x100.png/ff4444/ffffff,Yellow,Food - Snacks,Light and crunchy rice cakes with a variety of flavors.
+147,Vegetable Stir Fry Mix,3.29,http://dummyimage.com/192x100.png/dddddd/000000,Puce,Food - Fresh Produce,A mix of fresh vegetables for quick stir-fries.
+148,Brown Rice,1.79,http://dummyimage.com/107x100.png/dddddd/000000,Orange,Food - Grains,Nutty and wholesome brown rice.
+149,Biodegradable Trash Bags,12.99,http://dummyimage.com/104x100.png/dddddd/000000,Khaki,Home,Eco-friendly trash bags that break down naturally.
+150,Ginger Snaps,2.79,http://dummyimage.com/133x100.png/dddddd/000000,Teal,Food - Confectionery,Spicy ginger cookies that are crunchy and delicious.
+151,Mediterranean Flatbread,3.5,http://dummyimage.com/225x100.png/cc0000/ffffff,Indigo,Food - Bakery,"Artisan bread topped with olives, feta, and herbs, perfect for sharing."
+152,Almond Butter Cups,3.29,http://dummyimage.com/110x100.png/ff4444/ffffff,Turquoise,Food - Snacks,"Rich chocolate cups filled with almond butter, a delicious treat."
+153,Silicone Baking Molds,15.99,http://dummyimage.com/143x100.png/dddddd/000000,Indigo,Kitchen,Set of flexible molds for baking cakes and pastries.
+154,Adjustable Resistance Bands,39.99,http://dummyimage.com/113x100.png/dddddd/000000,Pink,Fitness,Set of resistance bands for versatile strength training workouts.
+155,Inspirational Wall Art,24.99,http://dummyimage.com/135x100.png/ff4444/ffffff,Goldenrod,Home,Quote wall art to inspire and motivate.
+156,Beef Stroganoff Meal Kit,12.99,http://dummyimage.com/191x100.png/dddddd/000000,Yellow,Food - Frozen Meals,Complete meal kit with everything needed to make beef stroganoff in under 30 minutes.
+157,Cinnamon Sugar Popcorn,2.89,http://dummyimage.com/178x100.png/ff4444/ffffff,Mauv,Food - Snacks,Sweet popcorn coated in a mixture of cinnamon and sugar.
+158,Oven-Baked Potato Chips,2.79,http://dummyimage.com/216x100.png/dddddd/000000,Mauv,Food - Snacks,Light and crispy baked potato chips in assorted flavors.
+159,Maple Breakfast Sausage,5.99,http://dummyimage.com/142x100.png/ff4444/ffffff,Purple,Food - Meat,Savory sausage links with a hint of maple flavor.
+160,Tomato Sauce,2.79,http://dummyimage.com/228x100.png/cc0000/ffffff,Puce,Food - Canned Goods,Rich and flavorful tomato sauce for pasta or pizza.
+161,Cucumber,0.99,http://dummyimage.com/191x100.png/ff4444/ffffff,Yellow,Food - Produce,"Fresh and crunchy cucumbers, great for salads."
+162,Pet Safety Harness,24.99,http://dummyimage.com/227x100.png/dddddd/000000,Orange,Pets,Comfortable harness designed to keep pets safe in the car.
+163,Vegetable Samosas,4.99,http://dummyimage.com/174x100.png/5fa2dd/ffffff,Red,Food - Frozen,Crispy pastry filled with seasoned vegetables.
+164,Cranberry Orange Oatmeal,2.49,http://dummyimage.com/109x100.png/dddddd/000000,Khaki,Food - Breakfast,Instant oatmeal flavored with cranberries and orange zest for breakfast.
+165,Apple Cinnamon Granola,4.49,http://dummyimage.com/108x100.png/dddddd/000000,Crimson,Food - Breakfast,A wholesome granola with bits of apple and a touch of cinnamon.
+166,Set of Silicone Baking Molds,15.99,http://dummyimage.com/240x100.png/dddddd/000000,Orange,Kitchen,Flexible molds perfect for baking cakes and pastries.
+167,Stuffed Bell Peppers,5.99,http://dummyimage.com/190x100.png/ff4444/ffffff,Violet,Food - Frozen Meals,Bell peppers stuffed with rice and vegetables
+168,Portable Laptop Table,39.99,http://dummyimage.com/153x100.png/dddddd/000000,Aquamarine,Office,Foldable table for working with laptops anywhere.
+169,Chipotle Seasoning Blend,2.49,http://dummyimage.com/208x100.png/dddddd/000000,Teal,Food - Spices,A smoky blend of spices for grilling and roasting.
+170,Electrolyte Water Bottle,34.99,http://dummyimage.com/189x100.png/cc0000/ffffff,Turquoise,Fitness,Water bottle that tracks hydration levels and adds electrolytes.
+171,Travel Sewing Kit,12.99,http://dummyimage.com/181x100.png/cc0000/ffffff,Aquamarine,Travel,Compact sewing kit for travel emergencies.
+172,Travel Pillow with Memory Foam,29.99,http://dummyimage.com/208x100.png/dddddd/000000,Aquamarine,Travel,Ergonomically designed neck pillow for comfortable travel.
+173,Smart Water Bottle,39.99,http://dummyimage.com/157x100.png/ff4444/ffffff,Yellow,Fitness,Water bottle that tracks your hydration levels.
+174,Electric Nail File Kit,34.99,http://dummyimage.com/205x100.png/ff4444/ffffff,Red,Beauty,Professional-grade nail care set for manicures and pedicures.
+175,Telescope,159.99,http://dummyimage.com/193x100.png/5fa2dd/ffffff,Turquoise,Outdoor,Beginner telescope for stargazing and exploring.
+176,Pet Training Clicker,5.99,http://dummyimage.com/126x100.png/ff4444/ffffff,Violet,Pets,Simple tool to train your pet with positive reinforcement.
+177,Organic Coconut Yogurt,4.49,http://dummyimage.com/104x100.png/dddddd/000000,Green,Food - Dairy,Dairy-free yogurt made from coconut milk.
+178,Herbed Couscous,2.49,http://dummyimage.com/110x100.png/dddddd/000000,Violet,Food - Grains,Quick-cooking couscous flavored with herbs and spices.
+179,Garlic Naan Bread,3.99,http://dummyimage.com/164x100.png/dddddd/000000,Red,Food - Bakery,"Soft and delicious garlic-infused flatbread, perfect for dipping."
+180,Plant Pot Drip Trays,9.99,http://dummyimage.com/246x100.png/ff4444/ffffff,Crimson,Garden,Prevent water damage with drip trays for potted plants.
+181,Kid's Fruit Snacks,2.49,http://dummyimage.com/125x100.png/ff4444/ffffff,Maroon,Food - Snacks,Assorted fruit-flavored gummy snacks that kids love.
+182,Compressible Packing Cubes,29.99,http://dummyimage.com/153x100.png/cc0000/ffffff,Indigo,Travel,Organizational cubes for easy packing and travel.
+183,Air Mattress,49.99,http://dummyimage.com/222x100.png/cc0000/ffffff,Fuscia,Outdoor,Inflatable air mattress for convenient sleeping.
+184,Insulated Cooler,39.99,http://dummyimage.com/196x100.png/cc0000/ffffff,Orange,Outdoor,Leak-proof cooler bag ideal for picnics and camping.
+185,Ribbed Knit Dress,59.99,http://dummyimage.com/155x100.png/cc0000/ffffff,Teal,Clothing - Dresses,A fitted ribbed knit dress that hugs your curves perfectly.
+186,Artisan Cornbread Mix,2.49,http://dummyimage.com/138x100.png/ff4444/ffffff,Khaki,Food - Baking,"Mix for homemade cornbread, just add water and bake for a delicious side."
+187,Fitness Resistance Bands Set,34.99,http://dummyimage.com/203x100.png/5fa2dd/ffffff,Goldenrod,Fitness,Variety of bands suitable for all fitness levels.
+188,Turmeric Ginger Tea,3.29,http://dummyimage.com/162x100.png/dddddd/000000,Aquamarine,Food - Beverages,A soothing tea blend with turmeric and ginger for wellness.
+189,Overnight Hiking Backpack,79.99,http://dummyimage.com/182x100.png/dddddd/000000,Violet,Outdoor,Durable backpack with ample storage for outdoor adventures.
+190,Terry Cloth Robe,59.99,http://dummyimage.com/182x100.png/dddddd/000000,Goldenrod,Clothing - Loungewear,"Soft and comfortable robe, perfect for lounging at home."
+191,Pecan Nuts,6.49,http://dummyimage.com/202x100.png/ff4444/ffffff,Orange,Food - Snacks,"Nutty, crunchy pecans great for baking."
+192,Leather Crossbody Bag,89.99,http://dummyimage.com/125x100.png/dddddd/000000,Purple,Clothing - Bags,A chic leather crossbody bag for everyday use.
+193,Cereal Dispenser with Portion Control,24.99,http://dummyimage.com/213x100.png/dddddd/000000,Orange,Kitchen,Maintain freshness and dispense cereal easily.
+194,Cauliflower Crust Pizza,7.99,http://dummyimage.com/196x100.png/cc0000/ffffff,Yellow,Food - Freezer,A gluten-free pizza crust made from cauliflower.
+195,Coconut Cream,2.99,http://dummyimage.com/120x100.png/dddddd/000000,Orange,Food - Baking & Cooking,"Rich cream extracted from coconut milk, ideal for desserts."
+196,Spicy Hummus,3.49,http://dummyimage.com/162x100.png/dddddd/000000,Aquamarine,Food - Deli,"Creamy hummus with a kick of spice, great for dipping."
+197,Luxury Bath Robe,49.99,http://dummyimage.com/241x100.png/ff4444/ffffff,Aquamarine,Clothing,Soft and plush robe for comfort after the shower.
+198,Pesto Pasta Sauce,3.99,http://dummyimage.com/166x100.png/ff4444/ffffff,Violet,Food - Sauces,Rich basil pesto sauce for pasta and more.
+199,Snap-On Tupperware Set,34.99,http://dummyimage.com/216x100.png/5fa2dd/ffffff,Orange,Kitchen,Durable and versatile food storage containers.
+200,Stylish Wide-Leg Trousers,59.99,http://dummyimage.com/153x100.png/5fa2dd/ffffff,Fuscia,Clothing - Bottoms,Fashionable wide-leg trousers for a chic silhouette.
+201,Pet Reflective Vest,18.99,http://dummyimage.com/228x100.png/ff4444/ffffff,Indigo,Pets,Safety vest for pets during nighttime walks.
+202,Smart Water Bottle,39.99,http://dummyimage.com/232x100.png/5fa2dd/ffffff,Pink,Fitness,Water bottle that tracks your hydration levels.
+203,Solar Charger,39.99,http://dummyimage.com/121x100.png/5fa2dd/ffffff,Aquamarine,Electronics,Portable solar charger for outdoor adventures.
+204,Faux Fur Coat,129.99,http://dummyimage.com/223x100.png/5fa2dd/ffffff,Turquoise,Clothing - Coats,A luxurious faux fur coat that adds glamour to any outfit.
+205,Instant Camera,89.99,http://dummyimage.com/162x100.png/5fa2dd/ffffff,Goldenrod,Photography,Retro instant camera for capturing and printing photos instantly.
+206,Mediterranean Couscous,3.59,http://dummyimage.com/143x100.png/cc0000/ffffff,Orange,Food - Grains,"Flavored couscous with herbs and spices, perfect as a side dish or a base for salads."
+207,Maple Bacon Popcorn,3.49,http://dummyimage.com/228x100.png/cc0000/ffffff,Red,Food - Snacks,Savory popcorn flavored with maple syrup and bacon bits.
+208,LED Under Cabinet Lighting,29.99,http://dummyimage.com/127x100.png/5fa2dd/ffffff,Puce,Home,Easy-to-install lights to brighten kitchen cabinets and workspaces.
+209,Electric Blanket,59.99,http://dummyimage.com/112x100.png/dddddd/000000,Red,Home,Extra soft electric blanket with adjustable heat settings.
+210,Adjustable Height Standing Desk Converter,89.99,http://dummyimage.com/108x100.png/dddddd/000000,Teal,Office,Convert your desk to a standing desk easily.
+211,Portable UV Sterilizer,19.99,http://dummyimage.com/146x100.png/dddddd/000000,Crimson,Health,Compact sterilizer for disinfecting small items.
+212,Ceramic Planter Set,39.99,http://dummyimage.com/233x100.png/5fa2dd/ffffff,Aquamarine,Home,Set of decorative ceramic planters for indoor plants.
+213,Kids' Art Supplies Kit,29.99,http://dummyimage.com/243x100.png/5fa2dd/ffffff,Mauv,Toys,"Complete kit with crayons, markers, and paper for young artists."
+214,Jump Rope with Counter,12.99,http://dummyimage.com/176x100.png/5fa2dd/ffffff,Fuscia,Fitness,Durable jump rope with built-in counter for workouts.
+215,Spicy Hummus,3.49,http://dummyimage.com/247x100.png/5fa2dd/ffffff,Orange,Food - Deli,"Creamy hummus with a kick of spice, great for dipping."
+216,Herbal Tea Infuser,9.99,http://dummyimage.com/192x100.png/cc0000/ffffff,Mauv,Kitchen,Infuser for brewing loose-leaf herbal teas easily.
+217,Cocktail Shaker and Mixing Glass Set,39.99,http://dummyimage.com/128x100.png/5fa2dd/ffffff,Fuscia,Kitchen,Complete set for mixing cocktails at home.
+218,Fitness Jump Rope,15.99,http://dummyimage.com/214x100.png/dddddd/000000,Goldenrod,Fitness,Durable jump rope for cardio workouts.
+219,Chocolate Fudge Ice Cream,5.99,http://dummyimage.com/240x100.png/cc0000/ffffff,Orange,Food - Frozen Desserts,Rich and creamy chocolate fudge ice cream for dessert.
+220,Electrolyte Water Bottle,34.99,http://dummyimage.com/151x100.png/cc0000/ffffff,Aquamarine,Fitness,Water bottle that tracks hydration levels and adds electrolytes.
+221,Magnetic Chess Set,19.99,http://dummyimage.com/171x100.png/dddddd/000000,Blue,Toys,Portable chess set with magnetic pieces for travel.
+222,Dark Chocolate Covered Pretzels,3.99,http://dummyimage.com/126x100.png/cc0000/ffffff,Teal,Food - Snacks,Crunchy pretzels dipped in rich dark chocolate.
+223,Smart Thermostat with Wi-Fi,169.99,http://dummyimage.com/110x100.png/ff4444/ffffff,Fuscia,Smart Home,Wi-Fi enabled thermostat that learns your habits.
+224,Sporty Slide Sandals,24.99,http://dummyimage.com/163x100.png/dddddd/000000,Crimson,Clothing - Footwear,Comfortable slide sandals for lounging by the pool.
+225,Kettle Chip Variety Pack,3.99,http://dummyimage.com/102x100.png/5fa2dd/ffffff,Red,Food - Snacks,A crunchy collection of flavored kettle chips in a convenient pack.
+226,Organic Ramen Noodles,2.89,http://dummyimage.com/236x100.png/5fa2dd/ffffff,Fuscia,Food - Pasta,Quick-cooking ramen noodles made with organic wheat.
+227,Portable SSD,129.99,http://dummyimage.com/249x100.png/ff4444/ffffff,Green,Storage,"Fast and compact external solid state drive, 1TB."
+228,Chic Jumpsuit,89.99,http://dummyimage.com/171x100.png/cc0000/ffffff,Orange,Clothing - Jumpsuits,An elegant jumpsuit that can be dressed up or down.
+229,Granola Bars,4.99,http://dummyimage.com/210x100.png/cc0000/ffffff,Teal,Food - Snacks,"Crispy and chewy granola bars, perfect for on-the-go."
+230,Luxury Bathrobe,49.99,http://dummyimage.com/112x100.png/5fa2dd/ffffff,Goldenrod,Clothing,Soft and cozy bathrobe perfect for relaxing at home.
+231,Reusable Food Storage Bags,19.99,http://dummyimage.com/148x100.png/dddddd/000000,Puce,Kitchen,Eco-friendly silicone bags for food storage and snacks.
+232,High-Waisted Skirt,34.99,http://dummyimage.com/136x100.png/5fa2dd/ffffff,Goldenrod,Clothing - Bottoms,"Chic high-waisted skirt, perfect for professional or casual settings."
+233,Herb Seasoned Rice,2.99,http://dummyimage.com/229x100.png/5fa2dd/ffffff,Crimson,Food - Sides,A flavorful rice side dish seasoned with herbs and spices.
+234,Nutty Trail Mix,4.29,http://dummyimage.com/245x100.png/dddddd/000000,Indigo,Food - Snacks,"A blend of nuts, seeds, and dried fruits for snacking."
+235,Blue Corn Tortilla Chips,3.49,http://dummyimage.com/113x100.png/ff4444/ffffff,Fuscia,Food - Snacks,"Crunchy chips made from blue corn, perfect for dipping."
+236,Yoga Mat Carrier,12.99,http://dummyimage.com/136x100.png/dddddd/000000,Green,Fitness,Convenient carrier for transporting yoga mat.
+237,Gardening Fairy Figurines,14.99,http://dummyimage.com/143x100.png/ff4444/ffffff,Purple,Garden,Cute fairy figurines to decorate your garden or potted plants.
+238,Spicy Tuna Rolls,6.49,http://dummyimage.com/145x100.png/ff4444/ffffff,Khaki,Food - Seafood,"The perfect seafood snack, ready to eat and delicious."
+239,Wireless Security System,299.99,http://dummyimage.com/208x100.png/5fa2dd/ffffff,Green,Home Security,Comprehensive camera and alert system for home security.
+240,Smart Plug,19.99,http://dummyimage.com/123x100.png/ff4444/ffffff,Blue,Smart Home,Wi-Fi enabled plug for controlling devices from your smartphone.
+241,Set of Measuring Spoons,12.99,http://dummyimage.com/148x100.png/cc0000/ffffff,Teal,Kitchen,Stainless steel measuring spoons set for cooking.
+242,Spicy Italian Sausage,4.99,http://dummyimage.com/172x100.png/dddddd/000000,Pink,Food - Meat & Seafood,"Savory sausage with a blend of spices, perfect for pasta dishes."
+243,Pumpkin Spice Pancake Mix,3.49,http://dummyimage.com/228x100.png/5fa2dd/ffffff,Blue,Food - Breakfast,Pancake mix infused with seasonal pumpkin spice flavor.
+244,Quinoa Salad,5.99,http://dummyimage.com/110x100.png/5fa2dd/ffffff,Yellow,Food - Prepared Foods,"A nutritious quinoa salad with veggies and dressing, ready-to-eat."
+245,Sea Salt Caramel Popcorn,3.99,http://dummyimage.com/118x100.png/5fa2dd/ffffff,Purple,Food - Snacks,"Sweet and salty popcorn with sea salt and caramel, a tasty treat."
+246,Spicy Avocado Salsa,4.49,http://dummyimage.com/177x100.png/cc0000/ffffff,Orange,Food - Condiments,"A zesty salsa made from ripe avocados, tomatoes, onions, and jalapeños, great for dipping or topping."
+247,Reusable Silicone Food Storage Bags,19.99,http://dummyimage.com/135x100.png/cc0000/ffffff,Puce,Kitchen,Eco-friendly bags for storing food without plastic waste.
+248,Frozen Acai Purée,6.99,http://dummyimage.com/228x100.png/cc0000/ffffff,Pink,Food - Frozen,Unsweetened frozen acai purée for smoothies and bowls.
+249,Camping Lantern,34.99,http://dummyimage.com/240x100.png/cc0000/ffffff,Goldenrod,Outdoor,Rechargeable LED camping lantern for outdoor use.
+250,Kids' Gardening Kit,24.99,http://dummyimage.com/152x100.png/cc0000/ffffff,Orange,Toys,Complete set designed for children to learn gardening.
+251,Chilli Lime Corn on the Cob,1.99,http://dummyimage.com/127x100.png/ff4444/ffffff,Crimson,Food - Vegetable,Corn on the cob seasoned with chili and lime for a spicy kick.
+252,Vegetable Korma,6.49,http://dummyimage.com/147x100.png/ff4444/ffffff,Goldenrod,Food - Frozen,Creamy vegetable curry enriched with spices.
+253,Pizza Stone,29.99,http://dummyimage.com/218x100.png/ff4444/ffffff,Goldenrod,Kitchen,Ceramic pizza stone for homemade pizzas.
+254,Set of Herb Garden Markers,8.99,http://dummyimage.com/209x100.png/ff4444/ffffff,Red,Garden,Stylish markers for labeling your indoor garden plants.
+255,Carrot Ginger Soup,4.29,http://dummyimage.com/210x100.png/5fa2dd/ffffff,Aquamarine,Food - Soups,"Smooth soup made from carrots and ginger, great for cold days."
+256,Desk Lamp with USB Port,29.99,http://dummyimage.com/172x100.png/dddddd/000000,Violet,Office,Modern desk lamp that features a built-in USB charging port.
+257,Zucchini Noodle Pasta,3.99,http://dummyimage.com/128x100.png/cc0000/ffffff,Maroon,Food - Vegetables,"Low-carb zucchini noodles, perfect for a healthy alternative to pasta."
+258,Sweet Potatoes (organic),1.99,http://dummyimage.com/175x100.png/cc0000/ffffff,Green,Food - Vegetables,"Fresh organic sweet potatoes, great for roasting or mashing."
+259,Organic Ramen Noodles,2.89,http://dummyimage.com/170x100.png/dddddd/000000,Crimson,Food - Pasta,Quick-cooking ramen noodles made with organic wheat.
+260,Nutty Granola Clusters,2.49,http://dummyimage.com/174x100.png/cc0000/ffffff,Teal,Food - Cereal,Crunchy granola clusters mixed with nuts and honey.
+261,Savory Rice Cakes,2.5,http://dummyimage.com/179x100.png/5fa2dd/ffffff,Mauv,Food - Snacks,"Lightly salted rice cakes, perfect for a healthy snack."
+262,Adjustable Standing Desk,299.99,http://dummyimage.com/201x100.png/cc0000/ffffff,Yellow,Office,Ergonomic desk that adjusts height for standing or sitting.
+263,Frozen Salmon Filets,12.99,http://dummyimage.com/134x100.png/dddddd/000000,Violet,Food - Seafood,"Wild-caught salmon filets, perfect for grilling or baking."
+264,Maple Almond Butter,5.49,http://dummyimage.com/222x100.png/5fa2dd/ffffff,Crimson,Food - Nut Butters,Creamy almond butter sweetened with maple syrup for a delicious spread.
+265,Cranberry Pecan Granola,3.99,http://dummyimage.com/140x100.png/5fa2dd/ffffff,Pink,Food - Breakfast Foods,Crunchy granola with cranberries and pecans.
+266,Chocolate Chip Muffins,3.99,http://dummyimage.com/175x100.png/dddddd/000000,Pink,Food - Bakery,Fresh baked chocolate chip muffins for breakfast.
+267,Smart Water Bottle,39.99,http://dummyimage.com/116x100.png/cc0000/ffffff,Purple,Fitness,Water bottle that tracks your hydration levels.
+268,Lentil Vegetable Curry,4.49,http://dummyimage.com/202x100.png/cc0000/ffffff,Aquamarine,Food - Prepared Meals,A flavorful lentil curry cooked with vegetables and spices.
+269,Mango Sticky Rice Dessert,4.5,http://dummyimage.com/179x100.png/dddddd/000000,Violet,Food - Frozen Desserts,Sweetened sticky rice served with fresh mango and coconut sauce.
+270,Safety First Aid Kit,29.99,http://dummyimage.com/144x100.png/cc0000/ffffff,Orange,Health,Comprehensive first aid kit for home or travel emergencies.
+271,Pineapple Rings,2.49,http://dummyimage.com/125x100.png/5fa2dd/ffffff,Green,Food - Canned Goods,Delicious canned pineapple rings for desserts or salads.
+272,Almond Flour Cookies,4.99,http://dummyimage.com/185x100.png/ff4444/ffffff,Indigo,Food - Bakery,Delicious cookies made with almond flour for a gluten-free treat.
+273,Nutritional Yeast,3.59,http://dummyimage.com/128x100.png/dddddd/000000,Yellow,Food - Pantry,A healthy vegan cheese alternative packed with nutrients and flavor.
+274,Kids' Gardening Tools Set,22.99,http://dummyimage.com/174x100.png/5fa2dd/ffffff,Blue,Toys,Fun and colorful gardening tools designed for children.
+275,Honeycrisp Apple Chips,3.49,http://dummyimage.com/180x100.png/cc0000/ffffff,Red,Food - Snacks,Crispy and sweet dried apple slices
+276,Picnic Blanket,29.99,http://dummyimage.com/137x100.png/cc0000/ffffff,Pink,Outdoor,Waterproof picnic blanket for outdoor fun.
+277,Smartphone Gimbal Stabilizer,89.99,http://dummyimage.com/193x100.png/5fa2dd/ffffff,Green,Photography,Stabilizer for smooth video recording with smartphones.
+278,Organic Coconut Yogurt,4.49,http://dummyimage.com/160x100.png/cc0000/ffffff,Orange,Food - Dairy,Dairy-free yogurt made from coconut milk.
+279,Salt and Pepper Grinder Set,19.99,http://dummyimage.com/235x100.png/cc0000/ffffff,Yellow,Kitchen,Adjustable grinders for fresh spices at the table.
+280,Cherry Almond Protein Bar,1.99,http://dummyimage.com/197x100.png/dddddd/000000,Crimson,Food - Snacks,"Nutritious protein bar with cherry and almond flavor, great for on-the-go."
+281,Protein Pancake Mix,3.99,http://dummyimage.com/245x100.png/cc0000/ffffff,Aquamarine,Food - Breakfast,A protein-packed pancake mix for a nutritious breakfast.
+282,Cotton Pajama Set,49.99,http://dummyimage.com/134x100.png/5fa2dd/ffffff,Orange,Clothing - Loungewear,Soft cotton pajama set for cozy nights in.
+283,Cacao Powder,4.49,http://dummyimage.com/128x100.png/dddddd/000000,Blue,Food - Baking,Unsweetened cacao powder for baking and smoothies.
+284,Ramen Noodle Soup Cups,1.29,http://dummyimage.com/152x100.png/5fa2dd/ffffff,Maroon,Food - Prepared Meals,Instant ramen cups with flavor-packed broth.
+285,Raisin Cinnamon Granola,3.79,http://dummyimage.com/191x100.png/cc0000/ffffff,Orange,Food - Cereals,Crunchy granola with raisins and cinnamon for a delightful breakfast.
+286,Whole Grain Hamburger Buns,2.69,http://dummyimage.com/200x100.png/5fa2dd/ffffff,Puce,Food - Bakery,Soft hamburger buns made with whole grains.
+287,Handheld Garment Steamer,34.99,http://dummyimage.com/159x100.png/dddddd/000000,Puce,Home,Quick and easy way to remove wrinkles from clothes.
+288,Handheld Garment Steamer,34.99,http://dummyimage.com/221x100.png/dddddd/000000,Teal,Home,Quick and easy way to remove wrinkles from clothes.
+289,Handheld Shower Head,34.99,http://dummyimage.com/146x100.png/cc0000/ffffff,Maroon,Bathroom,Adjustable shower head for a luxurious shower experience.
+290,Cinnamon Sugar Donuts,4.99,http://dummyimage.com/157x100.png/5fa2dd/ffffff,Fuscia,Food - Bakery,Delicious mini donuts dusted with cinnamon sugar.
+291,Magnetic Curtain Tiebacks,12.99,http://dummyimage.com/206x100.png/ff4444/ffffff,Puce,Home,Easy-to-use tiebacks for curtains or drapes.
+292,Stainless Steel BBQ Grill Set,49.99,http://dummyimage.com/190x100.png/5fa2dd/ffffff,Red,Outdoor,Essential tools for outdoor barbecues including tongs and spatula.
+293,Vegetable Broth,2.29,http://dummyimage.com/101x100.png/5fa2dd/ffffff,Teal,Food - Canned Goods,Rich vegetable broth for soups and stews.
+294,Marinara Parmesan Baked Ziti,8.49,http://dummyimage.com/227x100.png/5fa2dd/ffffff,Pink,Food - Frozen Meals,Ziti pasta baked with marinara and parmesan cheese
+295,Chickpeas,1.29,http://dummyimage.com/181x100.png/5fa2dd/ffffff,Blue,Food - Canned Goods,"Canned chickpeas, perfect for hummus or salads."
+296,Trainers with Mesh Inserts,69.99,http://dummyimage.com/209x100.png/5fa2dd/ffffff,Red,Clothing - Footwear,Comfortable trainers with mesh inserts for breathability.
+297,Natural Fruit Snacks,3.99,http://dummyimage.com/105x100.png/cc0000/ffffff,Goldenrod,Food - Snacks,"Healthy fruit snacks, made with real fruit."
+298,Sweet Potato Mash,3.99,http://dummyimage.com/142x100.png/dddddd/000000,Purple,Food - Frozen Foods,"Creamy mashed sweet potatoes, ready to heat and serve."
+299,Compact Electric Kettle,29.99,http://dummyimage.com/195x100.png/ff4444/ffffff,Orange,Kitchen,Quick-boiling kettle for home and office use.
+300,Fitness Jump Rope,15.99,http://dummyimage.com/225x100.png/cc0000/ffffff,Maroon,Fitness,Durable jump rope for cardio workouts.
+301,Bicycle Repair Kit,14.99,http://dummyimage.com/205x100.png/ff4444/ffffff,Aquamarine,Outdoor,Essential tools for on-the-go bike maintenance.
+302,Marinara Parmesan Baked Ziti,8.49,http://dummyimage.com/218x100.png/dddddd/000000,Puce,Food - Frozen Meals,Ziti pasta baked with marinara and parmesan cheese
+303,Smartphone Gimbal Stabilizer,89.99,http://dummyimage.com/224x100.png/ff4444/ffffff,Teal,Photography,Stabilizer for smooth video recording with smartphones.
+304,Savory Oatmeal Cups,1.99,http://dummyimage.com/166x100.png/dddddd/000000,Crimson,Food - Breakfast,"Savory oatmeal ready to eat, great for breakfast or a snack."
+305,Creamy Tomato Basil Soup,3.29,http://dummyimage.com/230x100.png/dddddd/000000,Maroon,Food - Canned Goods,"Rich and creamy tomato basil soup, perfect with a grilled cheese."
+306,Salsa,3.49,http://dummyimage.com/196x100.png/cc0000/ffffff,Purple,Food - Condiments,"Fresh and zesty salsa, perfect for nachos."
+307,Asian Salad Mix,3.99,http://dummyimage.com/243x100.png/cc0000/ffffff,Orange,Food - Produce,Fresh greens and veggies for a quick Asian-inspired salad.
+308,Feta Cheese Crumbles,2.49,http://dummyimage.com/210x100.png/5fa2dd/ffffff,Blue,Food - Dairy,"Crumbled feta cheese, perfect for salads and Mediterranean dishes."
+309,Fitness Jump Box,69.99,http://dummyimage.com/120x100.png/cc0000/ffffff,Aquamarine,Fitness,Durable and adjustable jump box for effective workouts.
+310,Cheddar Cheese Crackers,2.29,http://dummyimage.com/151x100.png/cc0000/ffffff,Yellow,Food - Snacks,Crunchy crackers topped with real cheddar cheese flavor.
+311,Elderberry Syrup,11.99,http://dummyimage.com/124x100.png/ff4444/ffffff,Indigo,Food - Supplements,Natural elderberry syrup to boost immunity.
+312,Athletic Compression Tights,39.99,http://dummyimage.com/182x100.png/dddddd/000000,Mauv,Clothing - Activewear,High-performance compression tights designed for optimal support and comfort.
+313,Ranch Dressing,2.59,http://dummyimage.com/145x100.png/dddddd/000000,Turquoise,Food - Condiments,"Creamy ranch dressing, perfect for salads and dips."
+314,Backpacking Tent,109.99,http://dummyimage.com/184x100.png/cc0000/ffffff,Violet,Outdoor,Lightweight and durable tent for camping trips.
+315,Asian Salad Mix,3.99,http://dummyimage.com/196x100.png/dddddd/000000,Mauv,Food - Produce,Fresh greens and veggies for a quick Asian-inspired salad.
+316,Coconut Milk Ice Cream,6.99,http://dummyimage.com/246x100.png/cc0000/ffffff,Mauv,Food - Frozen Desserts,"Dairy-free ice cream made with coconut milk, creamy and delicious."
+317,Essential White Button-Up,44.99,http://dummyimage.com/147x100.png/cc0000/ffffff,Yellow,Clothing - Shirts,A classic white button-up shirt for a polished appearance.
+318,LED Flashlight with Rechargeable Batteries,19.99,http://dummyimage.com/184x100.png/cc0000/ffffff,Turquoise,Outdoor,Bright flashlight with rechargeable batteries included.
+319,Gingerbread House Kit,6.99,http://dummyimage.com/147x100.png/cc0000/ffffff,Fuscia,Food - Baking,Everything you need to build a festive gingerbread house.
+320,Plant Growing Kit,22.99,http://dummyimage.com/219x100.png/5fa2dd/ffffff,Turquoise,Garden,Complete kit for growing herbs indoors.
+321,Smartphone Projector Kit,24.99,http://dummyimage.com/235x100.png/dddddd/000000,Green,Electronics,DIY kit to convert your smartphone into a mini projector.
+322,Field Journal,14.99,http://dummyimage.com/102x100.png/5fa2dd/ffffff,Khaki,Books,Durable journal for nature observations and notes.
+323,Non-Stick Baking Sheet,18.99,http://dummyimage.com/218x100.png/cc0000/ffffff,Yellow,Kitchen,Durable baking sheet coated for easy food release.
+324,Vegan chocolate chip cookies,4.79,http://dummyimage.com/222x100.png/ff4444/ffffff,Maroon,Food - Bakery,"Delicious soft cookies, dairy-free and egg-free, perfect for treats."
+325,Blender Bottle,12.99,http://dummyimage.com/135x100.png/ff4444/ffffff,Crimson,Fitness,Portable mixer bottle for smoothies and protein shakes.
+326,Jigsaw Puzzle,14.99,http://dummyimage.com/144x100.png/dddddd/000000,Orange,Toys,500-piece jigsaw puzzle featuring beautiful scenery.
+327,BBQ Jackfruit,4.29,http://dummyimage.com/101x100.png/dddddd/000000,Indigo,Food - Prepared Foods,"Tender jackfruit cooked in BBQ sauce, a delicious plant-based alternative."
+328,Mixed Nuts,5.99,http://dummyimage.com/198x100.png/ff4444/ffffff,Red,Food - Snacks,"A blend of assorted nuts, perfect for snacking or adding to recipes."
+329,Mango Chia Pudding,4.49,http://dummyimage.com/174x100.png/5fa2dd/ffffff,Pink,Food - Snacks,Healthy chia pudding made with mango and coconut milk.
+330,Creamy Tomato Basil Soup,3.29,http://dummyimage.com/139x100.png/ff4444/ffffff,Violet,Food - Canned Goods,"Rich and creamy tomato basil soup, perfect with a grilled cheese."
+331,Sesame Garlic Noodles,3.49,http://dummyimage.com/137x100.png/cc0000/ffffff,Blue,Food - Pasta,Delicious noodles tossed in a sesamegarlic sauce.
+332,Nutty Granola Clusters,2.49,http://dummyimage.com/235x100.png/dddddd/000000,Puce,Food - Cereal,Crunchy granola clusters mixed with nuts and honey.
+333,Bamboo Utensil Holder,14.99,http://dummyimage.com/242x100.png/ff4444/ffffff,Khaki,Kitchen,Stylish holder for organizing cooking utensils.
+334,Adjustable Skipping Rope,12.99,http://dummyimage.com/148x100.png/ff4444/ffffff,Purple,Fitness,Durable skipping rope with adjustable length for workouts.
+335,Instant Camera,89.99,http://dummyimage.com/109x100.png/ff4444/ffffff,Aquamarine,Photography,Retro instant camera for capturing and printing photos instantly.
+336,Cajun Seasoning,1.99,http://dummyimage.com/223x100.png/cc0000/ffffff,Red,Food - Spices,Spicy seasoning mix for all your favorite dishes.
+337,Peach Salsa,3.29,http://dummyimage.com/250x100.png/dddddd/000000,Purple,Food - Dips,Sweet and spicy salsa made with fresh peaches.
+338,Spicy Vegetable Sushi Rolls,8.49,http://dummyimage.com/223x100.png/5fa2dd/ffffff,Blue,Food - Prepared Foods,Vegan sushi filled with spicy vegetables and avocado.
+339,Garden Vegetable Soup,3.29,http://dummyimage.com/227x100.png/5fa2dd/ffffff,Maroon,Food - Canned Goods,"A hearty soup filled with vegetables and herbs, perfect for a light meal."
+340,Cable Knit Beanie,19.99,http://dummyimage.com/125x100.png/dddddd/000000,Mauv,Clothing - Accessories,A cozy cable knit beanie to keep your head warm in winter.
+341,Over-Ear Headphones,59.99,http://dummyimage.com/105x100.png/dddddd/000000,Teal,Audio,Comfortable over-ear headphones with deep bass.
+342,Savory Trail Mix,4.29,http://dummyimage.com/209x100.png/5fa2dd/ffffff,Red,Food - Snacks,"A blend of nuts, seeds, and spices for a healthy snack."
+343,Flavored Popcorn Mix,2.99,http://dummyimage.com/148x100.png/dddddd/000000,Puce,Food - Snacks,Popcorn tossed with sweet or savory flavors for a tasty snack.
+344,Chickpea Pancakes,4.99,http://dummyimage.com/186x100.png/cc0000/ffffff,Maroon,Food - Frozen,"Savory pancakes made with chickpea flour, high in protein."
+345,Balsamic Glazed Brussels Sprouts,4.99,http://dummyimage.com/124x100.png/5fa2dd/ffffff,Crimson,Food - Vegetables,Roasted Brussels sprouts drizzled with balsamic glaze.
+346,Caraway Rye Bread,4.79,http://dummyimage.com/232x100.png/cc0000/ffffff,Green,Food - Bakery,Artisan bread with caraway seeds for added flavor.
+347,Stylish Combat Boots,99.99,http://dummyimage.com/145x100.png/cc0000/ffffff,Purple,Clothing - Shoes,Bold combat boots that make a statement with any outfit.
+348,Portable Air Purifier,69.99,http://dummyimage.com/200x100.png/5fa2dd/ffffff,Red,Health,Compact air purifier to improve indoor air quality.
+349,Cucumber Relish,3.39,http://dummyimage.com/164x100.png/ff4444/ffffff,Fuscia,Food - Condiments,"Sweet relish made from cucumbers, perfect for sandwiches."
+350,Pet Water Fountain with Filtration,39.99,http://dummyimage.com/144x100.png/ff4444/ffffff,Yellow,Pets,"Continuous stream of fresh water for pets, promoting hydration."
+351,Craft Beer Mustard,3.99,http://dummyimage.com/112x100.png/cc0000/ffffff,Aquamarine,Food - Condiments,Stone-ground mustard infused with craft beer for a gourmet touch.
+352,Car Seat Organizer,14.99,http://dummyimage.com/110x100.png/cc0000/ffffff,Yellow,Automotive,Storage solutions for keeping your car tidy and organized.
+353,Buffalo Stilton Cheese,8.99,http://dummyimage.com/102x100.png/dddddd/000000,Blue,Food - Cheese,Spicy blue cheese with a hint of buffalo flavor.
+354,Cordless Water Flosser,49.99,http://dummyimage.com/132x100.png/cc0000/ffffff,Crimson,Health,Rechargeable water flosser for dental hygiene.
+355,Pasta Portion Control Measure,9.99,http://dummyimage.com/213x100.png/5fa2dd/ffffff,Blue,Kitchen,Tool for measuring perfect pasta portions every time.
+356,Pasta Portion Control Measure,9.99,http://dummyimage.com/199x100.png/5fa2dd/ffffff,Orange,Kitchen,Tool for measuring perfect pasta portions every time.
+357,Hibiscus Tea Bags,3.79,http://dummyimage.com/144x100.png/dddddd/000000,Puce,Food - Beverages,Herbal tea bags made from dried hibiscus flowers.
+358,Lentil Soup (canned),1.99,http://dummyimage.com/141x100.png/ff4444/ffffff,Mauv,Food - Canned Goods,Hearty lentil soup for a quick meal.
+359,Almond Butter Cookies,4.49,http://dummyimage.com/117x100.png/ff4444/ffffff,Crimson,Food - Snacks,Soft cookies made with almond butter
+360,Wooden Puzzle Game,14.99,http://dummyimage.com/145x100.png/5fa2dd/ffffff,Pink,Toys,Classic wooden puzzle game for kids and adults.
+361,Compact Folding Table,49.99,http://dummyimage.com/156x100.png/cc0000/ffffff,Crimson,Outdoor,Versatile folding table great for events or outdoor activities.
+362,Rice Pilaf Mix,2.59,http://dummyimage.com/125x100.png/cc0000/ffffff,Fuscia,Food - Grains,Quick and easy rice pilaf mix for side dishes.
+363,Noise Cancelling Ear Muffs,24.99,http://dummyimage.com/155x100.png/cc0000/ffffff,Purple,Safety,Ear protection for shooting and industrial use.
+364,Pumpkin Spice Cookies,3.29,http://dummyimage.com/184x100.png/5fa2dd/ffffff,Pink,Food - Bakery,Delicious cookies flavored with pumpkin and spices.
+365,Adjustable Kneeling Pad,18.99,http://dummyimage.com/127x100.png/cc0000/ffffff,Indigo,Garden,Comfortable kneeling pad for gardening or home projects.
+366,Ginger Tea,4.99,http://dummyimage.com/111x100.png/ff4444/ffffff,Blue,Food - Beverages,A soothing herbal tea made from ginger root.
+367,Lockable Bicycle Chain,19.99,http://dummyimage.com/215x100.png/5fa2dd/ffffff,Turquoise,Outdoor,Heavy-duty chain lock for securing bicycles.
+368,Mixed Berry Smoothie Pack,5.99,http://dummyimage.com/208x100.png/cc0000/ffffff,Crimson,Food - Frozen Food,"Frozen berries blend perfect for smoothies, just add yogurt."
+369,Desk Organizer Set,29.99,http://dummyimage.com/197x100.png/cc0000/ffffff,Green,Office,Stylish desk set to keep your workspace tidy and organized.
+370,Set of Herb Garden Markers,8.99,http://dummyimage.com/183x100.png/dddddd/000000,Goldenrod,Garden,Stylish markers for labeling your indoor garden plants.
+371,Oven-Baked Parmesan Zucchini,4.99,http://dummyimage.com/222x100.png/cc0000/ffffff,Khaki,Food - Frozen Vegetables,"Frozen zucchini slices coated in parmesan cheese, perfect for baking or frying."
+372,Flavored Popcorn Mix,2.99,http://dummyimage.com/197x100.png/5fa2dd/ffffff,Mauv,Food - Snacks,Popcorn tossed with sweet or savory flavors for a tasty snack.
+373,Fitness Jump Rope with LCD Counter,15.99,http://dummyimage.com/116x100.png/ff4444/ffffff,Yellow,Fitness,Weighted jump rope that counts jumps and calories burned.
+374,Garden Hose,32.99,http://dummyimage.com/172x100.png/cc0000/ffffff,Khaki,Garden,Durable 50-foot garden hose with nozzle.
+375,Smart Home Hub,99.99,http://dummyimage.com/214x100.png/cc0000/ffffff,Blue,Smart Home,Connect and control smart devices from one app.
+376,Wireless Game Controller,39.99,http://dummyimage.com/169x100.png/ff4444/ffffff,Purple,Gaming,Ergonomic wireless controller for gaming consoles.
+377,Sporty Cap,15.99,http://dummyimage.com/175x100.png/5fa2dd/ffffff,Orange,Clothing - Accessories,Stylish cap to complete your athletic look.
+378,Almond Joy Munch Bars,1.39,http://dummyimage.com/138x100.png/5fa2dd/ffffff,Mauv,Food - Snacks,"A delightful mix of chocolate, coconut, and almonds in a snack bar."
+379,Homemade Salsa,3.79,http://dummyimage.com/127x100.png/dddddd/000000,Teal,Food - Condiments,"Fresh salsa made with tomatoes, onions, and cilantro."
+380,Spicy Tuna Salad,4.49,http://dummyimage.com/159x100.png/5fa2dd/ffffff,Mauv,Food - Seafood,"Ready-to-eat tuna salad with a spicy kick, perfect for sandwiches."
+381,Honey Butter Popcorn,2.99,http://dummyimage.com/224x100.png/dddddd/000000,Blue,Food - Snacks,Light and fluffy popcorn coated in sweet honey butter.
+382,Fresh Strawberries,3.99,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Purple,Food - Produce,"Sweet and juicy strawberries, perfect for desserts."
+383,Mini Hand Gesture Drone,29.99,http://dummyimage.com/177x100.png/dddddd/000000,Mauv,Toys,Toy drone that flies with gestures and is easy to control.
+384,French Bread,2.49,http://dummyimage.com/244x100.png/dddddd/000000,Green,Food - Bakery,"Freshly baked French baguette, perfect for dipping."
+385,Athletic Sports Bra,24.99,http://dummyimage.com/236x100.png/ff4444/ffffff,Purple,Clothing - Activewear,"Supportive sports bra designed for high-impact workouts, made with moisture-wicking fabric."
+386,Safety Goggles,14.99,http://dummyimage.com/230x100.png/dddddd/000000,Khaki,Safety,Protective goggles for DIY and construction work.
+387,BBQ Sauce,3.49,http://dummyimage.com/237x100.png/dddddd/000000,Goldenrod,Food - Condiments,"A smoky barbecue sauce, ideal for grilling and dipping."
+388,Sourdough Bread,4.99,http://dummyimage.com/147x100.png/cc0000/ffffff,Indigo,Food - Bakery,Artisan-made sourdough bread with a tangy flavor.
+389,Blue Corn Tortilla Chips,3.49,http://dummyimage.com/130x100.png/cc0000/ffffff,Crimson,Food - Snacks,"Crunchy chips made from blue corn, perfect for dipping."
+390,Comfort Flats,44.99,http://dummyimage.com/215x100.png/dddddd/000000,Pink,Clothing - Shoes,Everyday flats that combine comfort and style.
+391,Pizza Stone,29.99,http://dummyimage.com/177x100.png/ff4444/ffffff,Teal,Kitchen,Ceramic pizza stone for homemade pizzas.
+392,Cabbage,1.29,http://dummyimage.com/219x100.png/cc0000/ffffff,Red,Food - Produce,"Fresh green cabbage, great for salads and slaws."
+393,Portable Air Purifier,69.99,http://dummyimage.com/172x100.png/cc0000/ffffff,Maroon,Health,Compact air purifier to improve indoor air quality.
+394,Children's Gardening Set,19.99,http://dummyimage.com/128x100.png/5fa2dd/ffffff,Maroon,Toys,Fun gardening tools designed specifically for kids.
+395,Strawberry Rhubarb Jam,4.29,http://dummyimage.com/211x100.png/ff4444/ffffff,Pink,Food - Condiments,"A sweet and tart jam, perfect on toast or in desserts."
+396,Portable Air Purifier,69.99,http://dummyimage.com/249x100.png/5fa2dd/ffffff,Pink,Health,Compact air purifier to improve indoor air quality.
+397,Glass Food Containers,34.99,http://dummyimage.com/107x100.png/cc0000/ffffff,Purple,Kitchen,BPA-free glass containers for safe food storage.
+398,Watering Can with Nozzle,19.99,http://dummyimage.com/207x100.png/dddddd/000000,Mauv,Garden,Stylish watering can for plants with easy pouring nozzle.
+399,Black Bean Soup,3.49,http://dummyimage.com/172x100.png/5fa2dd/ffffff,Turquoise,Food - Soups,"Spicy and flavorful soup made with black beans, perfect as a meal or starter."
+400,Faux Fur Throw Blanket,39.99,http://dummyimage.com/112x100.png/dddddd/000000,Khaki,Home,Cozy faux fur blanket to add warmth and style to your home.
+401,Classic Caesar Salad Kit,4.99,http://dummyimage.com/198x100.png/cc0000/ffffff,Turquoise,Food - Salads,Everything you need for a fresh and delicious Caesar salad.
+402,Coconut Curry Chicken,9.99,http://dummyimage.com/199x100.png/5fa2dd/ffffff,Pink,Food - Frozen Foods,"Tender chicken cooked in a rich coconut curry sauce, ready to heat and serve."
+403,Dark Chocolate Covered Almonds,7.19,http://dummyimage.com/112x100.png/5fa2dd/ffffff,Aquamarine,Food - Snacks,Roasted almonds dipped in rich dark chocolate.
+404,LED Disco Ball Light,19.99,http://dummyimage.com/224x100.png/dddddd/000000,Crimson,Home,Fun light that creates a disco atmosphere for parties.
+405,Coconut Water,2.49,http://dummyimage.com/130x100.png/5fa2dd/ffffff,Purple,Food - Beverages,"Refreshing coconut water, perfect for hydration."
+406,Mechanical Pencil Set,19.99,http://dummyimage.com/146x100.png/dddddd/000000,Indigo,Office,"Precision pencils for drawing, sketching, and writing."
+407,Multi-Functional Rice Cooker,49.99,http://dummyimage.com/123x100.png/cc0000/ffffff,Violet,Kitchen,Electric rice cooker with multiple cooking settings for perfect rice.
+408,Backpacking Tent,109.99,http://dummyimage.com/177x100.png/cc0000/ffffff,Purple,Outdoor,Lightweight and durable tent for camping trips.
+409,Ice Cube Tray with Lid,10.99,http://dummyimage.com/235x100.png/cc0000/ffffff,Purple,Kitchen,Silicone tray for making ice cubes with a lid to prevent spills.
+410,Ginger Turmeric Latte Mix,5.29,http://dummyimage.com/240x100.png/5fa2dd/ffffff,Yellow,Food - Beverages,A warming blend of ginger and turmeric for lattes.
+411,Sriracha Honey Glaze,3.59,http://dummyimage.com/162x100.png/ff4444/ffffff,Goldenrod,Food - Sauces,"A spicy glaze made with sriracha and honey, perfect for meats."
+412,Athletic Sports Bra,24.99,http://dummyimage.com/232x100.png/ff4444/ffffff,Orange,Clothing - Activewear,"Supportive sports bra designed for high-impact workouts, made with moisture-wicking fabric."
+413,Nutty Granola Clusters,2.49,http://dummyimage.com/115x100.png/5fa2dd/ffffff,Teal,Food - Cereal,Crunchy granola clusters mixed with nuts and honey.
+414,Handmade Leather Journal,39.99,http://dummyimage.com/222x100.png/ff4444/ffffff,Green,Books,Beautiful leather-bound journal for writing and sketching.
+415,Kids' Dinosaur-Themed Lunchbox,19.99,http://dummyimage.com/144x100.png/cc0000/ffffff,Puce,Accessories,Fun lunchbox for kids with a sturdy design.
+416,Kids' Activity Book,14.99,http://dummyimage.com/169x100.png/cc0000/ffffff,Crimson,Books,Fun book filled with puzzles and games for kids.
+417,Dark Chocolate Covered Almonds,7.19,http://dummyimage.com/170x100.png/ff4444/ffffff,Khaki,Food - Snacks,Roasted almonds dipped in rich dark chocolate.
+418,Fitness Activity Journal,14.99,http://dummyimage.com/147x100.png/cc0000/ffffff,Yellow,Fitness,Journal to record workouts and nutrition.
+419,Pressure Washer Accessories Kit,39.99,http://dummyimage.com/134x100.png/cc0000/ffffff,Teal,Home Improvement,Essential attachments for pressure washing.
+420,Peanut Butter,3.79,http://dummyimage.com/241x100.png/5fa2dd/ffffff,Indigo,Food - Condiments,"Creamy and smooth peanut butter, perfect for sandwiches."
+421,Comfortable Bed Pillow,24.99,http://dummyimage.com/157x100.png/ff4444/ffffff,Puce,Home,Supportive pillow designed for a good night's sleep.
+422,Comfort Flats,44.99,http://dummyimage.com/122x100.png/5fa2dd/ffffff,Aquamarine,Clothing - Shoes,Everyday flats that combine comfort and style.
+423,Ice Cream Scoop,12.99,http://dummyimage.com/142x100.png/5fa2dd/ffffff,Pink,Kitchen,Durable scoop for perfectly shaped ice cream servings.
+424,Wireless Charging Station,39.99,http://dummyimage.com/244x100.png/ff4444/ffffff,Khaki,Electronics,Charge multiple devices with this sleek charging station.
+425,Portable Air Compressor,44.99,http://dummyimage.com/236x100.png/dddddd/000000,Crimson,Automotive,Compact air compressor for inflating tires and sports equipment.
+426,Leather Wallet,49.99,http://dummyimage.com/201x100.png/ff4444/ffffff,Khaki,Accessories,Genuine leather wallet with multiple compartments.
+427,Avocado Oil Mayo,5.29,http://dummyimage.com/194x100.png/5fa2dd/ffffff,Aquamarine,Food - Condiments,Creamy mayonnaise made with avocado oil for a healthier twist.
+428,Overnight Duffle Bag,34.99,http://dummyimage.com/212x100.png/dddddd/000000,Fuscia,Travel,Spacious duffle bag for weekend getaways.
+429,Organic Coconut Oil,8.99,http://dummyimage.com/176x100.png/dddddd/000000,Red,Food - Oils,"Cold-pressed coconut oil, perfect for cooking, baking, or skin care."
+430,Crispy Chickpeas,2.99,http://dummyimage.com/241x100.png/ff4444/ffffff,Puce,Food - Snacks,Roasted chickpeas seasoned for a crunchy snack.
+431,Portable Air Purifier,69.99,http://dummyimage.com/202x100.png/5fa2dd/ffffff,Aquamarine,Health,Compact air purifier to improve indoor air quality.
+432,Harvest Grain Salad,5.49,http://dummyimage.com/104x100.png/5fa2dd/ffffff,Red,Food - Salads,"A hearty salad with grains, dried fruits, and nuts."
+433,Emergency Preparedness Kit,99.99,http://dummyimage.com/218x100.png/cc0000/ffffff,Maroon,Safety,Complete kit for emergency situations including food and water.
+434,Telescope,159.99,http://dummyimage.com/142x100.png/ff4444/ffffff,Blue,Outdoor,Beginner telescope for stargazing and exploring.
+435,Tandoori Chicken Marinade,2.49,http://dummyimage.com/164x100.png/dddddd/000000,Blue,Food - Condiments,Delicious and tangy marinade for grilling or baking chicken.
+436,Digital Voice Recorder,49.99,http://dummyimage.com/155x100.png/dddddd/000000,Pink,Electronics,High-quality voice recorder for lectures and meetings.
+437,Frozen Edamame,3.29,http://dummyimage.com/231x100.png/dddddd/000000,Red,Food - Frozen Foods,"Lightly salted frozen edamame, a protein-packed snack."
+438,Portable Electric Fan,24.99,http://dummyimage.com/154x100.png/5fa2dd/ffffff,Orange,Home,Compact fan for personal cooling at work or home.
+439,Sriracha Honey Glaze,3.59,http://dummyimage.com/152x100.png/ff4444/ffffff,Fuscia,Food - Sauces,"A spicy glaze made with sriracha and honey, perfect for meats."
+440,Puzzle,27.99,http://dummyimage.com/200x100.png/dddddd/000000,Aquamarine,Toys,Challenging 1000-piece jigsaw puzzle for all ages.
+441,Chocolate Chip Pancake Mix,3.99,http://dummyimage.com/206x100.png/ff4444/ffffff,Violet,Food - Bakery,Easy-to-make pancake mix with chocolate chips included.
+442,Maple Breakfast Sausage,5.99,http://dummyimage.com/142x100.png/ff4444/ffffff,Crimson,Food - Meat,Savory sausage links with a hint of maple flavor.
+443,Greek Feta Cheese,4.99,http://dummyimage.com/250x100.png/5fa2dd/ffffff,Puce,Food - Dairy,Creamy and crumbly cheese for salads and dishes.
+444,Dark Chocolate Covered Almonds,7.19,http://dummyimage.com/206x100.png/cc0000/ffffff,Green,Food - Snacks,Roasted almonds dipped in rich dark chocolate.
+445,Chocolate Hazelnut Granola,4.49,http://dummyimage.com/160x100.png/cc0000/ffffff,Puce,Food - Cereal,Crunchy granola with chocolate and hazelnuts for breakfast.
+446,Multi-Function Meat Tenderizer,19.99,http://dummyimage.com/139x100.png/cc0000/ffffff,Mauv,Kitchen,Kitchen tool for tenderizing meat to enhance flavors.
+447,Almond Butter Cookies,4.49,http://dummyimage.com/208x100.png/dddddd/000000,Goldenrod,Food - Snacks,Soft cookies made with almond butter
+448,Peach Preserves,3.79,http://dummyimage.com/165x100.png/cc0000/ffffff,Green,Food - Condiments,"Sweet and fruity peach preserves, perfect for spreading on toast."
+449,Vegetable Chips,3.99,http://dummyimage.com/170x100.png/5fa2dd/ffffff,Orange,Food - Snacks,Crispy and crunchy snack made from assorted vegetables.
+450,Spicy Italian Sausage,4.99,http://dummyimage.com/170x100.png/5fa2dd/ffffff,Crimson,Food - Meat & Seafood,"Savory sausage with a blend of spices, perfect for pasta dishes."
+451,Coconut Cream,2.99,http://dummyimage.com/242x100.png/cc0000/ffffff,Yellow,Food - Baking & Cooking,"Rich cream extracted from coconut milk, ideal for desserts."
+452,Wrist Support Brace,19.99,http://dummyimage.com/118x100.png/cc0000/ffffff,Mauv,Health,Comfortable support brace to relieve wrist pain.
+453,Cranberry Juice,3.69,http://dummyimage.com/231x100.png/dddddd/000000,Violet,Food - Beverages,Refreshing cranberry juice with no added sugar.
+454,Granulated Sugar,2.49,http://dummyimage.com/165x100.png/dddddd/000000,Yellow,Food - Baking,Fine granulated sugar for all your baking needs.
+455,Garden Tool Belt,22.99,http://dummyimage.com/146x100.png/cc0000/ffffff,Teal,Garden,Handy belt for carrying garden tools while working.
+456,Luxury Bath Robe,49.99,http://dummyimage.com/239x100.png/5fa2dd/ffffff,Indigo,Clothing,Soft and plush robe for comfort after the shower.
+457,Spinach Pizza Rolls,4.99,http://dummyimage.com/233x100.png/dddddd/000000,Khaki,Food - Frozen Foods,"Frozen pizza rolls stuffed with spinach and cheese, perfect for snacking."
+458,Elderberry Syrup Kit,22.99,http://dummyimage.com/210x100.png/ff4444/ffffff,Maroon,Health,DIY kit to make your own elderberry syrup.
+459,Camping Chair,29.99,http://dummyimage.com/105x100.png/ff4444/ffffff,Violet,Outdoor,Portable folding camping chair with cup holder.
+460,Silicone Baking Molds,15.99,http://dummyimage.com/123x100.png/ff4444/ffffff,Khaki,Kitchen,Set of flexible molds for baking cakes and pastries.
+461,Blueberry Oatmeal Cups,3.29,http://dummyimage.com/206x100.png/cc0000/ffffff,Blue,Food - Breakfast,Instant oatmeal cups with blueberries for an easy breakfast.
+462,Ribbed Knit Dress,59.99,http://dummyimage.com/165x100.png/dddddd/000000,Turquoise,Clothing - Dresses,A fitted ribbed knit dress that hugs your curves perfectly.
+463,Almond Joy Snack Bars,2.99,http://dummyimage.com/131x100.png/cc0000/ffffff,Fuscia,Food - Snacks,Chewy snack bars with coconut and almonds coated in chocolate.
+464,Roasted Garlic Pasta Sauce,4.99,http://dummyimage.com/231x100.png/ff4444/ffffff,Green,Food - Sauces,A flavorful pasta sauce made with roasted garlic.
+465,Dog Training Whistle,8.99,http://dummyimage.com/159x100.png/cc0000/ffffff,Mauv,Pets,High-frequency whistle for training your dog effectively.
+466,Quinoa and Kale Salad Kit,5.29,http://dummyimage.com/131x100.png/cc0000/ffffff,Pink,Food - Salads,"Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette."
+467,Digital Drawing Tablet,79.99,http://dummyimage.com/121x100.png/ff4444/ffffff,Crimson,Art Supplies,Tablet for digital drawing and illustration work.
+468,Camping Tarp,32.99,http://dummyimage.com/106x100.png/dddddd/000000,Purple,Outdoor,Durable tarp for outdoor camping and protection.
+469,Silicone Stretch Lids,14.99,http://dummyimage.com/232x100.png/ff4444/ffffff,Blue,Kitchen,Reusable silicone lids for covering food in bowls and storage containers.
+470,Pet Water Fountain,39.99,http://dummyimage.com/188x100.png/dddddd/000000,Puce,Pets,Automatic water fountain for pets with filtration.
+471,Handmade Soap Making Kit,34.99,http://dummyimage.com/209x100.png/cc0000/ffffff,Teal,Crafts,Complete kit for crafting your own scented soaps.
+472,Shoe Organizer,39.99,http://dummyimage.com/163x100.png/5fa2dd/ffffff,Maroon,Home,Vertical shoe rack for saving closet space.
+473,Maple Glazed Carrots,3.29,http://dummyimage.com/150x100.png/ff4444/ffffff,Turquoise,Food - Prepared Foods,Tender carrots glazed with a sweet maple sauce.
+474,Puff Pastry,5.49,http://dummyimage.com/216x100.png/ff4444/ffffff,Indigo,Food - Bakery,Versatile puff pastry for pies and pastries.
+475,Vegetarian Sausage Links,5.89,http://dummyimage.com/131x100.png/cc0000/ffffff,Mauv,Food - Meat Substitutes,Plant-based sausage links with spices and herbs.
+476,Ethical Wool Scarf,29.99,http://dummyimage.com/154x100.png/cc0000/ffffff,Mauv,Clothing - Accessories,A warm and sustainable wool scarf for chilly days.
+477,Slim Fit Chinos,54.99,http://dummyimage.com/101x100.png/ff4444/ffffff,Maroon,Clothing - Pants,Comfortable slim fit chinos for a polished look.
+478,Coconut Curry Lentils,5.79,http://dummyimage.com/230x100.png/5fa2dd/ffffff,Crimson,Food - Canned Goods,Lentils cooked in a coconut curry for a hearty meal.
+479,Basic V-Neck T-Shirt,19.99,http://dummyimage.com/121x100.png/cc0000/ffffff,Purple,Clothing - Tops,A staple v-neck t-shirt that pairs well with anything.
+480,Whole Roasted Chicken,9.99,http://dummyimage.com/139x100.png/5fa2dd/ffffff,Khaki,Food - Meats,"Seasoned and roasted to perfection, ready to eat."
+481,Mango Chunks,4.89,http://dummyimage.com/236x100.png/5fa2dd/ffffff,Violet,Food - Frozen Fruits,Frozen mango chunks for smoothies or snacking.
+482,Air Purifier,129.99,http://dummyimage.com/115x100.png/ff4444/ffffff,Maroon,Home,HEPA air purifier for clean indoor air.
+483,Bamboo Utensil Set,14.99,http://dummyimage.com/129x100.png/ff4444/ffffff,Mauv,Kitchen,Sustainable bamboo utensils for cooking and serving.
+484,Pet Travel Carrier,39.99,http://dummyimage.com/219x100.png/dddddd/000000,Mauv,Pets,Comfortable carrier for small pets during travel.
+485,Digital Camera,299.99,http://dummyimage.com/149x100.png/ff4444/ffffff,Green,Electronics,Compact digital camera with 20MP resolution.
+486,Mini Food Processor,39.99,http://dummyimage.com/174x100.png/dddddd/000000,Red,Kitchen,Compact food processor for quick meal prep.
+487,Outdoor Inflatable Pool,149.99,http://dummyimage.com/106x100.png/cc0000/ffffff,Red,Outdoor,Large inflatable pool for summer fun in your backyard.
+488,High-Quality Yoga Block,12.99,http://dummyimage.com/128x100.png/ff4444/ffffff,Khaki,Fitness,Foam yoga block for enhancing poses and stability.
+489,Electric Opener for Jars and Bottles,24.99,http://dummyimage.com/141x100.png/ff4444/ffffff,Mauv,Kitchen,Easily opens jar lids and bottle caps with one touch.
+490,Mini Air Purifier,49.99,http://dummyimage.com/162x100.png/5fa2dd/ffffff,Green,Health,Battery-operated air purifier for small spaces.
+491,Graphic Hoodie,49.99,http://dummyimage.com/132x100.png/5fa2dd/ffffff,Fuscia,Clothing - Outerwear,Bold graphic hoodie featuring a comfortable fit and soft fabric.
+492,Smart Light Switch,29.99,http://dummyimage.com/116x100.png/ff4444/ffffff,Crimson,Smart Home,Control lights remotely with this smart switch.
+493,Casual Long Cardigan,45.99,http://dummyimage.com/246x100.png/ff4444/ffffff,Purple,Clothing - Outerwear,A cozy long cardigan designed for layering in any season.
+494,Smoked Salmon,14.99,http://dummyimage.com/210x100.png/cc0000/ffffff,Puce,Food - Seafood,"Deliciously smoked salmon, great for bagels."
+495,Inflatable Party Cooler,19.99,http://dummyimage.com/235x100.png/cc0000/ffffff,Khaki,Outdoor,Fun inflatable cooler to keep drinks cold at parties.
+496,Garam Masala Spice Blend,2.79,http://dummyimage.com/234x100.png/5fa2dd/ffffff,Fuscia,Food - Spices,A fragrant Indian spice blend for curries and stews.
+497,Wireless Range Extender,49.99,http://dummyimage.com/137x100.png/5fa2dd/ffffff,Indigo,Electronics,Boost your Wi-Fi signal for better coverage.
+498,Wild Rice & Quinoa Mix,2.99,http://dummyimage.com/108x100.png/cc0000/ffffff,Fuscia,Food - Grains,"Nutritious blend of wild rice and quinoa, perfect as a side dish."
+499,Honey Sesame Cashews,4.49,http://dummyimage.com/223x100.png/cc0000/ffffff,Blue,Food - Snacks,Roasted cashews coated in honey and sesame seeds for a sweet treat.
+500,Chocolate Chip Cookie Dough,5.49,http://dummyimage.com/189x100.png/dddddd/000000,Fuscia,Food - Baking,Ready-to-bake cookie dough packed with chocolate chips.
+501,Smart Light Switch,29.99,http://dummyimage.com/144x100.png/5fa2dd/ffffff,Yellow,Smart Home,Control lights remotely with this smart switch.
+502,Pet Waterer with Filtration,39.99,http://dummyimage.com/192x100.png/dddddd/000000,Violet,Pets,Automatic waterer that filters and provides fresh drinking water for pets.
+503,Chicken Salad Kit,5.99,http://dummyimage.com/171x100.png/dddddd/000000,Indigo,Food - Prepared Foods,All-in-one kit for making delicious chicken salad.
+504,Blender Bottle,12.99,http://dummyimage.com/136x100.png/5fa2dd/ffffff,Crimson,Fitness,Portable mixer bottle for smoothies and protein shakes.
+505,Rustic Wooden Picture Frame,19.99,http://dummyimage.com/158x100.png/ff4444/ffffff,Violet,Home,Charming frame to showcase your favorite photos.
+506,Tuna Fish (canned),2.29,http://dummyimage.com/140x100.png/cc0000/ffffff,Indigo,Food - Canned Goods,"Wild-caught tuna in olive oil, perfect for salads."
+507,Teriyaki Beef Jerky,5.49,http://dummyimage.com/248x100.png/ff4444/ffffff,Blue,Food - Snacks,Savory and chewy beef jerky with teriyaki flavor.
+508,Kids' Science Experiment Kit,29.99,http://dummyimage.com/241x100.png/5fa2dd/ffffff,Fuscia,Toys,Engaging kit with science experiments for children.
+509,Travel Yoga Mat,34.99,http://dummyimage.com/177x100.png/dddddd/000000,Violet,Fitness,Lightweight yoga mat for practicing on the go.
+510,Pesto Genovese,6.49,http://dummyimage.com/150x100.png/cc0000/ffffff,Green,Food - Condiments,Traditional basil pesto made with extra virgin olive oil.
+511,Organic Spinach,2.99,http://dummyimage.com/181x100.png/5fa2dd/ffffff,Purple,Food - Produce,"Fresh organic spinach, great for salads or cooking."
+512,Folding Backpack Chair,49.99,http://dummyimage.com/144x100.png/dddddd/000000,Turquoise,Outdoor,Versatile chair that easily folds up for carrying.
+513,Stick Vacuums Cleaner,129.99,http://dummyimage.com/164x100.png/ff4444/ffffff,Khaki,Home Appliances,Cordless vacuum cleaner for quick clean-ups.
+514,Ramen Noodle Soup Cups,1.29,http://dummyimage.com/156x100.png/ff4444/ffffff,Khaki,Food - Prepared Meals,Instant ramen cups with flavor-packed broth.
+515,Zucchini Noodles,3.99,http://dummyimage.com/224x100.png/5fa2dd/ffffff,Indigo,Food - Vegetables,"Spiralized zucchini, a healthy alternative to pasta."
+516,Wall Planner,19.99,http://dummyimage.com/113x100.png/5fa2dd/ffffff,Turquoise,Office,Large wall planner for organizing schedules.
+517,Couscous,2.49,http://dummyimage.com/229x100.png/ff4444/ffffff,Indigo,Food - Grains,"Quick-cooking couscous, great as a side or base."
+518,Over-the-Door Hooks,12.99,http://dummyimage.com/203x100.png/5fa2dd/ffffff,Fuscia,Home,Convenient hooks that utilize door space for hanging items.
+519,Chocolate Fudge Brownie Mix,2.99,http://dummyimage.com/128x100.png/dddddd/000000,Pink,Food - Baking,Just add water for delicious brownies.
+520,Portable Camping Stove,49.99,http://dummyimage.com/214x100.png/5fa2dd/ffffff,Crimson,Outdoor,Compact camp stove for outdoor cooking.
+521,Window A/C Unit,299.99,http://dummyimage.com/127x100.png/ff4444/ffffff,Purple,Home Appliances,Energy-efficient window air conditioner for cooling.
+522,Herb Garlic Butter,3.99,http://dummyimage.com/126x100.png/cc0000/ffffff,Indigo,Food - Condiments,"A flavorful garlic butter blend, perfect for cooking or baking."
+523,High-Speed Blender,99.99,http://dummyimage.com/178x100.png/cc0000/ffffff,Pink,Kitchen,Powerful blender for smoothies and soups.
+524,Spinach Artichoke Dip,4.99,http://dummyimage.com/219x100.png/cc0000/ffffff,Puce,Food - Snacks,"A delicious creamy dip featuring spinach and artichokes, perfect for parties."
+525,Dark Chocolate Covered Raisins,3.99,http://dummyimage.com/102x100.png/5fa2dd/ffffff,Fuscia,Food - Snacks,Satisfy your sweet tooth with these dark chocolate-covered raisins.
+526,Adjustable Pedicure Footrest,39.99,http://dummyimage.com/138x100.png/dddddd/000000,Puce,Beauty,Ergonomic footrest for easier pedicure treatment.
+527,Travel Yoga Mat,34.99,http://dummyimage.com/193x100.png/dddddd/000000,Fuscia,Fitness,Lightweight yoga mat for practicing on the go.
+528,Sushi Rice,3.99,http://dummyimage.com/203x100.png/dddddd/000000,Orange,Food - Grains,Short-grain sushi rice for perfect rolls.
+529,Frozen Burritos,8.99,http://dummyimage.com/122x100.png/dddddd/000000,Teal,Food - Frozen Foods,Easy-to-heat frozen burritos for a quick meal.
+530,Spicy Salsa Verde,3.49,http://dummyimage.com/249x100.png/5fa2dd/ffffff,Khaki,Food - Condiments,"Green salsa with a spicy kick, great for dipping."
+531,Outdoor Camping Lantern,34.99,http://dummyimage.com/107x100.png/5fa2dd/ffffff,Maroon,Outdoor,Rechargeable LED lantern ideal for camping and outdoor activities.
+532,Jennifer's Amazing Lip Balm Kit,22.99,http://dummyimage.com/231x100.png/dddddd/000000,Mauv,Beauty,DIY kit to make your own lip balms in various flavors.
+533,Infrared Space Heater,99.99,http://dummyimage.com/148x100.png/dddddd/000000,Violet,Home Appliances,Energy-efficient infrared heater for home use.
+534,Coconut Chips,3.59,http://dummyimage.com/134x100.png/dddddd/000000,Blue,Food - Snacks,"Crunchy, toasted coconut chips for snacking."
+535,Green Smoothie Mix,5.99,http://dummyimage.com/149x100.png/5fa2dd/ffffff,Violet,Food - Beverages,A convenient powder mix combining greens and fruits for smoothies.
+536,Chic Jumpsuit,89.99,http://dummyimage.com/173x100.png/dddddd/000000,Puce,Clothing - Jumpsuits,An elegant jumpsuit that can be dressed up or down.
+537,Non-Slip Yoga Socks,12.99,http://dummyimage.com/194x100.png/ff4444/ffffff,Crimson,Fitness,Yoga socks designed to provide better grip and stability.
+538,Pasta Maker Machine,59.99,http://dummyimage.com/202x100.png/cc0000/ffffff,Aquamarine,Kitchen,Manual pasta maker for creating fresh pasta at home.
+539,Insulated Wine Tote,24.99,http://dummyimage.com/197x100.png/5fa2dd/ffffff,Orange,Accessories,Stylish tote to keep wine bottles chilled while traveling.
+540,Emergency Preparedness Kit,99.99,http://dummyimage.com/101x100.png/dddddd/000000,Yellow,Safety,Complete kit for emergency situations including food and water.
+541,Luxe Velvet Blazer,89.99,http://dummyimage.com/103x100.png/5fa2dd/ffffff,Yellow,Clothing - Outerwear,Elevate your outfit with this sophisticated velvet blazer.
+542,Herb-Infused Olive Oil,8.99,http://dummyimage.com/160x100.png/cc0000/ffffff,Aquamarine,Food - Oils,Premium olive oil infused with herbs for enhanced flavor.
+543,Eco-Friendly Beeswax Wraps,14.99,http://dummyimage.com/225x100.png/ff4444/ffffff,Mauv,Kitchen,"Reusable wraps for food storage, replacing plastic wraps."
+544,Kettle Corn Popcorn,2.99,http://dummyimage.com/190x100.png/cc0000/ffffff,Pink,Food - Snacks,"Sweet and salty kettle corn, perfect for snacking."
+545,Portable Phone Charger,29.99,http://dummyimage.com/201x100.png/ff4444/ffffff,Purple,Accessories,High-capacity power bank for charging devices on the go.
+546,Gardening Fairy Figurines,14.99,http://dummyimage.com/222x100.png/5fa2dd/ffffff,Teal,Garden,Cute fairy figurines to decorate your garden or potted plants.
+547,Sweet Potato and Chickpea Bowl,6.49,http://dummyimage.com/248x100.png/dddddd/000000,Turquoise,Food - Frozen Food,A nourishing bowl of sweet potatoes and chickpeas with spices.
+548,Voice-Controlled Speaker,99.99,http://dummyimage.com/151x100.png/ff4444/ffffff,Maroon,Audio,Smart speaker with Alexa and music streaming features.
+549,Protein Pancake Mix,3.99,http://dummyimage.com/159x100.png/ff4444/ffffff,Purple,Food - Breakfast,A protein-packed pancake mix for a nutritious breakfast.
+550,Sweet Pea Hummus,4.29,http://dummyimage.com/192x100.png/dddddd/000000,Puce,Food - Dips,Creamy hummus made with sweet peas and tahini.
+551,Beef Chili,4.5,http://dummyimage.com/209x100.png/5fa2dd/ffffff,Red,Food - Canned Goods,"Hearty beef chili, ready to heat and eat."
+552,Multi-Function Smartphone Holder,12.99,http://dummyimage.com/197x100.png/5fa2dd/ffffff,Red,Electronics,"Versatile holder that can be used on desks, cars, and more."
+553,Luxury Rolling Makeup Case,99.99,http://dummyimage.com/106x100.png/dddddd/000000,Violet,Beauty,Stylish and spacious case for makeup and beauty products.
+554,Mango Chili Salsa,4.29,http://dummyimage.com/186x100.png/dddddd/000000,Fuscia,Food - Condiments,"A sweet and spicy salsa made with mangoes and a hint of chili, great with chips or grilled chicken."
+555,Cocoa Powder,3.99,http://dummyimage.com/168x100.png/ff4444/ffffff,Purple,Food - Baking,Rich cocoa powder for baking and chocolate recipes.
+556,Fitness Jump Rope,15.99,http://dummyimage.com/173x100.png/5fa2dd/ffffff,Goldenrod,Fitness,Durable jump rope for cardio workouts.
+557,Ice Cream Maker,79.99,http://dummyimage.com/139x100.png/cc0000/ffffff,Teal,Kitchen,Homemade ice cream maker for delicious desserts.
+558,Decorative LED Neon Sign,45.99,http://dummyimage.com/170x100.png/cc0000/ffffff,Fuscia,Home,"Bright, vibrant sign to add flair to any space."
+559,Blue Denim Jeans,49.99,http://dummyimage.com/209x100.png/cc0000/ffffff,Crimson,Clothing - Bottoms,Classic fit blue jeans with a slight stretch for comfort and durability.
+560,Silicone Baking Cups,10.99,http://dummyimage.com/187x100.png/5fa2dd/ffffff,Goldenrod,Kitchen,Set of reusable baking cups for muffins and cupcakes.
+561,Garden Kneeler and Seat,39.99,http://dummyimage.com/128x100.png/ff4444/ffffff,Fuscia,Garden,Convertible kneeler and seat for gardening comfort.
+562,Pet Leash,15.99,http://dummyimage.com/179x100.png/ff4444/ffffff,Mauv,Pets,Durable pet leash with comfortable handle.
+563,Drone,249.99,http://dummyimage.com/131x100.png/cc0000/ffffff,Mauv,Electronics,Beginner-friendly drone with HD camera.
+564,Whole Grain Hamburger Buns,2.69,http://dummyimage.com/152x100.png/cc0000/ffffff,Red,Food - Bakery,Soft hamburger buns made with whole grains.
+565,Rechargeable Battery Organizer,17.99,http://dummyimage.com/186x100.png/dddddd/000000,Green,Home,Tidy storage solution for rechargeable batteries.
+566,Lemon Zest Olive Oil,8.99,http://dummyimage.com/142x100.png/cc0000/ffffff,Khaki,Food - Oils & Vinegars,High-quality olive oil infused with fresh lemon zest.
+567,Whisk Set,12.99,http://dummyimage.com/240x100.png/ff4444/ffffff,Crimson,Kitchen,Set of whisks in various sizes for cooking.
+568,Cinnamon Sugar Mix,1.49,http://dummyimage.com/202x100.png/dddddd/000000,Orange,Food - Baking,Sweet mixture of cinnamon and sugar for sprinkling.
+569,Pleated Midi Dress,79.99,http://dummyimage.com/205x100.png/cc0000/ffffff,Violet,Clothing - Dresses,"A stylish midi dress with stylish pleats, suitable for any occasion."
+570,Foot Spa Bath Massager,59.99,http://dummyimage.com/102x100.png/ff4444/ffffff,Red,Health,Relax and soothe tired feet with this foot spa.
+571,Magnetic Spice Containers,24.99,http://dummyimage.com/214x100.png/dddddd/000000,Puce,Kitchen,Set of magnetic jars for convenient spice organization.
+572,Zesty Garlic Marinade,4.49,http://dummyimage.com/169x100.png/5fa2dd/ffffff,Orange,Food - Condiments,"A tangy marinade for meats and veggies, packed with garlic flavor."
+573,Organic Honeycrisp Apples,1.99,http://dummyimage.com/136x100.png/cc0000/ffffff,Fuscia,Food - Fruits,"Sweet and crisp apples, perfect for snacking."
+574,Chickpea Salad Deluxe,4.29,http://dummyimage.com/169x100.png/dddddd/000000,Red,Food - Produce,"Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+575,Peach Mango Smoothie Mix,5.99,http://dummyimage.com/142x100.png/dddddd/000000,Puce,Food - Beverages,A blend of peach and mango for a tropical smoothie.
+576,Smart Plant Monitor,24.99,http://dummyimage.com/181x100.png/cc0000/ffffff,Pink,Garden,Device that tracks soil moisture and provides care tips.
+577,Athletic Jogging Jacket,49.99,http://dummyimage.com/176x100.png/ff4444/ffffff,Crimson,Clothing - Outerwear,Designed for comfort and performance during workouts.
+578,Mixed Berry Smoothie Pack,5.99,http://dummyimage.com/179x100.png/ff4444/ffffff,Red,Food - Frozen Food,"Frozen berries blend perfect for smoothies, just add yogurt."
+579,Essential Oils Diffuser Necklace,19.99,http://dummyimage.com/229x100.png/5fa2dd/ffffff,Fuscia,Health,Wearable diffuser for scenting your space and body.
+580,Water Bottle,18.99,http://dummyimage.com/112x100.png/ff4444/ffffff,Goldenrod,Fitness,Insulated water bottle for keeping drinks cold.
+581,Wireless Security Camera,109.99,http://dummyimage.com/211x100.png/cc0000/ffffff,Khaki,Home,1080p wireless security camera with night vision.
+582,Harvest Grain Salad,5.49,http://dummyimage.com/129x100.png/cc0000/ffffff,Goldenrod,Food - Salads,"A hearty salad with grains, dried fruits, and nuts."
+583,Crispy Potato Tots,3.69,http://dummyimage.com/182x100.png/dddddd/000000,Green,Food - Frozen Foods,"Golden brown potato tots, crispy on the outside and fluffy inside."
+584,Caraway Rye Bread,4.79,http://dummyimage.com/217x100.png/cc0000/ffffff,Red,Food - Bakery,Artisan bread with caraway seeds for added flavor.
+585,Smart Plant Monitor,24.99,http://dummyimage.com/136x100.png/ff4444/ffffff,Violet,Garden,Device that tracks soil moisture and provides care tips.
+586,Whole Wheat Pasta,2.49,http://dummyimage.com/207x100.png/5fa2dd/ffffff,Red,Food - Grains,Nutritious and hearty pasta made from whole wheat flour.
+587,Maple Oatmeal,2.99,http://dummyimage.com/214x100.png/cc0000/ffffff,Purple,Food - Breakfast,Delicious maple-flavored oatmeal for a quick breakfast.
+588,Digital Voice Recorder,49.99,http://dummyimage.com/235x100.png/5fa2dd/ffffff,Yellow,Electronics,High-quality voice recorder for lectures and meetings.
+589,Cinnamon Roll Kit,6.89,http://dummyimage.com/155x100.png/dddddd/000000,Turquoise,Food - Baking,Everything you need to make melt-in-your-mouth cinnamon rolls at home.
+590,Spinach and Feta Wraps,4.99,http://dummyimage.com/181x100.png/dddddd/000000,Orange,Food - Prepared Foods,Whole wheat wraps filled with spinach and feta cheese.
+591,Induction Cooktop,89.99,http://dummyimage.com/204x100.png/cc0000/ffffff,Pink,Kitchen,Portable induction cooktop for quick heating.
+592,Aged White Cheddar Popcorn,2.99,http://dummyimage.com/185x100.png/dddddd/000000,Goldenrod,Food - Snacks,Light and fluffy popcorn coated in aged white cheddar.
+593,Chipotle Seasoning Blend,2.49,http://dummyimage.com/244x100.png/ff4444/ffffff,Purple,Food - Spices,A smoky blend of spices for grilling and roasting.
+594,Spinach Artichoke Dip,4.99,http://dummyimage.com/135x100.png/ff4444/ffffff,Turquoise,Food - Snacks,"A delicious creamy dip featuring spinach and artichokes, perfect for parties."
+595,Silicone Baking Mat,15.99,http://dummyimage.com/157x100.png/5fa2dd/ffffff,Red,Kitchen,Non-stick baking mat for easy cooking and cleanup.
+596,Outdoor Mosquito Repellent Lantern,34.99,http://dummyimage.com/166x100.png/5fa2dd/ffffff,Goldenrod,Outdoor,Lantern that repels mosquitoes while providing light.
+597,Mini Electric Kettle,29.99,http://dummyimage.com/229x100.png/cc0000/ffffff,Crimson,Kitchen,Quick boiling kettle for small kitchens and dorms.
+598,Cookbook,27.99,http://dummyimage.com/134x100.png/cc0000/ffffff,Crimson,Books,Inspiring cookbook with healthy recipes.
+599,Buffalo Cauliflower Wings,6.99,http://dummyimage.com/130x100.png/dddddd/000000,Pink,Food - Frozen Foods,Crispy cauliflower bites tossed in spicy buffalo sauce.
+600,Almond Flour,5.99,http://dummyimage.com/216x100.png/5fa2dd/ffffff,Khaki,Food - Baking,"Gluten-free almond flour, perfect for baking."
+601,Car Sunshade,19.99,http://dummyimage.com/126x100.png/ff4444/ffffff,Aquamarine,Automotive,Windshield sunshade for car interior protection.
+602,Over-the-Door Hooks,12.99,http://dummyimage.com/176x100.png/ff4444/ffffff,Green,Home,Convenient hooks that utilize door space for hanging items.
+603,Interactive Robot Toy,34.99,http://dummyimage.com/163x100.png/ff4444/ffffff,Indigo,Toys,Fun robot that engages kids with games and activities.
+604,Coconut Cream,2.99,http://dummyimage.com/237x100.png/5fa2dd/ffffff,Red,Food - Baking & Cooking,"Rich cream extracted from coconut milk, ideal for desserts."
+605,High-Quality Yoga Mat,34.99,http://dummyimage.com/214x100.png/cc0000/ffffff,Red,Fitness,Non-slip mat designed for yoga and fitness exercises.
+606,Ribbed Knit Dress,59.99,http://dummyimage.com/198x100.png/dddddd/000000,Khaki,Clothing - Dresses,A fitted ribbed knit dress that hugs your curves perfectly.
+607,Almond Flour Cookies,4.99,http://dummyimage.com/151x100.png/cc0000/ffffff,Turquoise,Food - Bakery,Delicious cookies made with almond flour for a gluten-free treat.
+608,Almond Butter Granola Bars,4.99,http://dummyimage.com/226x100.png/ff4444/ffffff,Blue,Food - Snacks,"Crunchy granola bars made with almond butter, oats, and honey, perfect for on-the-go snacking."
+609,Tailored Dress Pants,79.99,http://dummyimage.com/157x100.png/5fa2dd/ffffff,Crimson,Clothing - Bottoms,"Smart tailored dress pants, perfect for work or formal events."
+610,Wireless Game Controller,39.99,http://dummyimage.com/158x100.png/cc0000/ffffff,Teal,Gaming,Ergonomic wireless controller for gaming consoles.
+611,Portable Charcoal Grill,89.99,http://dummyimage.com/230x100.png/5fa2dd/ffffff,Mauv,Outdoor,Compact charcoal grill perfect for tailgating.
+612,Chili Garlic Sauce,2.49,http://dummyimage.com/145x100.png/ff4444/ffffff,Turquoise,Food - Condiments,"Spicy sauce made with chili peppers and garlic, great for stir-frying."
+613,Kettle Corn Popcorn,2.99,http://dummyimage.com/168x100.png/5fa2dd/ffffff,Orange,Food - Snacks,"Sweet and salty kettle corn, perfect for snacking."
+614,Salt and Pepper Grinder Set,19.99,http://dummyimage.com/210x100.png/dddddd/000000,Pink,Kitchen,Adjustable grinders for fresh spices at the table.
+615,Turmeric Ginger Tea,3.29,http://dummyimage.com/178x100.png/dddddd/000000,Orange,Food - Beverages,A soothing tea blend with turmeric and ginger for wellness.
+616,Air Fryer Oven,149.99,http://dummyimage.com/160x100.png/dddddd/000000,Blue,Kitchen,"Versatile air fryer that also roasts, bakes, and broils."
+617,Asian Noodle Salad Kit,4.99,http://dummyimage.com/159x100.png/5fa2dd/ffffff,Aquamarine,Food - Salads,A pre-packaged salad kit with noodles and Asian-style dressing.
+618,Organic Coconut Yogurt,4.49,http://dummyimage.com/105x100.png/cc0000/ffffff,Purple,Food - Dairy,Dairy-free yogurt made from coconut milk.
+619,Roasted Red Pepper Dip,3.29,http://dummyimage.com/121x100.png/ff4444/ffffff,Teal,Food - Snacks,"A blend of roasted red peppers and spices, perfect for dipping."
+620,Collapsible Camping Cup,9.99,http://dummyimage.com/188x100.png/cc0000/ffffff,Yellow,Outdoor,Space-saving cup that folds flat for easy storage.
+621,Lemon Pepper Seasoning,3.29,http://dummyimage.com/202x100.png/dddddd/000000,Aquamarine,Food - Seasonings,A zesty seasoning for meats and vegetables
+622,Portable Camping Stove,49.99,http://dummyimage.com/232x100.png/ff4444/ffffff,Green,Outdoor,Compact camp stove for outdoor cooking.
+623,Wall-Mounted Organizer,34.99,http://dummyimage.com/138x100.png/cc0000/ffffff,Green,Home,Practical organizer for keeping your home tidy and clutter-free.
+624,Strawberry Banana Smoothie Pack,4.99,http://dummyimage.com/121x100.png/dddddd/000000,Pink,Food - Frozen,Frozen smoothie pack with strawberries and bananas.
+625,Portable Projector,199.99,http://dummyimage.com/111x100.png/cc0000/ffffff,Blue,Electronics,Compact projector for movies and presentations on the go.
+626,Sliced Strawberries,4.99,http://dummyimage.com/239x100.png/ff4444/ffffff,Pink,Food - Fruits,Fresh sliced strawberries for toppings or snacking
+627,Pet Water Fountain,39.99,http://dummyimage.com/221x100.png/ff4444/ffffff,Green,Pets,Automatic water fountain for pets with filtration.
+628,Pet Grooming Glove,12.99,http://dummyimage.com/110x100.png/dddddd/000000,Red,Pets,Gentle glove for brushing and massaging your pet.
+629,Buffalo Sauce,2.99,http://dummyimage.com/123x100.png/cc0000/ffffff,Pink,Food - Condiments,Spicy buffalo sauce ideal for wings or dipping.
+630,Carrot Ginger Soup,4.29,http://dummyimage.com/193x100.png/dddddd/000000,Maroon,Food - Soups,"Smooth soup made from carrots and ginger, great for cold days."
+631,Organic Apples,1.89,http://dummyimage.com/202x100.png/dddddd/000000,Goldenrod,Food - Produce,Crisp and delicious organic apples.
+632,Mediterranean Couscous,3.59,http://dummyimage.com/120x100.png/dddddd/000000,Teal,Food - Grains,"Flavored couscous with herbs and spices, perfect as a side dish or a base for salads."
+633,Portable Bluetooth Speaker,49.99,http://dummyimage.com/159x100.png/dddddd/000000,Goldenrod,Audio,Compact Bluetooth speaker with rich sound quality.
+634,Hand Crank Blender,18.99,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Yellow,Kitchen,Manual blender for smoothies and mixing ingredients on the go.
+635,Banana Nut Muffins,4.49,http://dummyimage.com/204x100.png/cc0000/ffffff,Crimson,Food - Bakery,"Moist, fluffy muffins packed with bananas and walnuts for a delightful breakfast or snack."
+636,Electrolyte Water Bottle,34.99,http://dummyimage.com/107x100.png/dddddd/000000,Pink,Fitness,Water bottle that tracks hydration levels and adds electrolytes.
+637,Flavored Popcorn Mix,2.99,http://dummyimage.com/107x100.png/dddddd/000000,Fuscia,Food - Snacks,Popcorn tossed with sweet or savory flavors for a tasty snack.
+638,Pizza Stone,29.99,http://dummyimage.com/146x100.png/cc0000/ffffff,Purple,Kitchen,Ceramic pizza stone for homemade pizzas.
+639,Basil-infused Olive Oil,6.99,http://dummyimage.com/135x100.png/cc0000/ffffff,Turquoise,Food - Cooking Oil,Extra virgin olive oil infused with fresh basil.
+640,Noise-Canceling Earbuds,79.99,http://dummyimage.com/243x100.png/cc0000/ffffff,Puce,Audio,Wireless earbuds designed for immersive sound experience.
+641,Stainless Steel Mixing Bowls,29.99,http://dummyimage.com/153x100.png/dddddd/000000,Red,Kitchen,Set of versatile mixing bowls for cooking.
+642,Lemon Basil Pasta Sauce,4.99,http://dummyimage.com/224x100.png/ff4444/ffffff,Puce,Food - Sauces,A tangy sauce that combines lemon zest and basil for a refreshing flavor.
+643,Graphic Print Leggings,29.99,http://dummyimage.com/174x100.png/ff4444/ffffff,Pink,Clothing - Activewear,"Trendy leggings with a unique graphic print, versatile for workouts and casual wear."
+644,Telescope,159.99,http://dummyimage.com/126x100.png/cc0000/ffffff,Goldenrod,Outdoor,Beginner telescope for stargazing and exploring.
+645,Camera Lens Cleaning Kit,14.99,http://dummyimage.com/107x100.png/cc0000/ffffff,Red,Photography,Complete cleaning kit for camera lenses.
+646,Artisan Bread Loaf,3.99,http://dummyimage.com/174x100.png/cc0000/ffffff,Purple,Food - Bakery,"Fresh artisan bread, perfect for sandwiches"
+647,Banana Chips,1.99,http://dummyimage.com/225x100.png/dddddd/000000,Pink,Food - Snacks,"Crunchy and sweet banana chips, a great on-the-go snack."
+648,Wireless Charging Pad,19.99,http://dummyimage.com/178x100.png/5fa2dd/ffffff,Indigo,Accessories,Sleek wireless charging pad for smartphones.
+649,Buffalo Chicken Wraps,5.99,http://dummyimage.com/140x100.png/5fa2dd/ffffff,Puce,Food - Prepared Meals,Savory wraps with buffalo chicken and fresh vegetables.
+650,Harvest Grain Salad,5.49,http://dummyimage.com/201x100.png/dddddd/000000,Orange,Food - Salads,"A hearty salad with grains, dried fruits, and nuts."
+651,Desk Organizer Set,29.99,http://dummyimage.com/107x100.png/ff4444/ffffff,Maroon,Office,Stylish desk set to keep your workspace tidy and organized.
+652,Non-Stick Grill Mat,19.99,http://dummyimage.com/156x100.png/ff4444/ffffff,Crimson,Outdoor,Reusable mat that prevents food from sticking to the grill.
+653,Outdoor Portable Fire Pit,149.99,http://dummyimage.com/178x100.png/5fa2dd/ffffff,Yellow,Outdoor,Compact fire pit for campfires and gatherings.
+654,Kale Chips,3.99,http://dummyimage.com/182x100.png/5fa2dd/ffffff,Crimson,Food - Snacks,"Healthy, crunchy kale chips, a nutritious snack."
+655,Garlic Herb Grilled Chicken,8.99,http://dummyimage.com/204x100.png/ff4444/ffffff,Blue,Food - Frozen Foods,Marinated grilled chicken breasts seasoned with garlic and herbs.
+656,Puzzle Game Set,34.99,http://dummyimage.com/167x100.png/ff4444/ffffff,Aquamarine,Toys,Challenging puzzle game set for family entertainment.
+657,Honey Glazed Carrots,3.49,http://dummyimage.com/104x100.png/cc0000/ffffff,Khaki,Food - Produce,"Sweet and savory carrots glazed in honey, perfect as a side dish."
+658,Herbal Tea Sampler Box,29.99,http://dummyimage.com/225x100.png/5fa2dd/ffffff,Teal,Food,Assorted collection of herbal teas for relaxation and wellness.
+659,Maple Almond Yogurt,1.89,http://dummyimage.com/136x100.png/ff4444/ffffff,Maroon,Food - Dairy,Creamy yogurt made with maple and almond flavors.
+660,Board Game Storage,19.99,http://dummyimage.com/222x100.png/dddddd/000000,Khaki,Toys,Organize your board games with this storage bin.
+661,Baking Powder,1.79,http://dummyimage.com/171x100.png/dddddd/000000,Yellow,Food - Baking Goods,Essential ingredient for baking fluffy cakes and pastries.
+662,Bike Repair Tool Kit,29.99,http://dummyimage.com/166x100.png/cc0000/ffffff,Yellow,Outdoor,Essential tools for bike maintenance and repair.
+663,Couscous Mix,2.49,http://dummyimage.com/225x100.png/dddddd/000000,Teal,Food - Grains,"Fluffy couscous that cooks in just minutes, perfect as a side."
+664,Digital Food Thermometer,19.99,http://dummyimage.com/141x100.png/5fa2dd/ffffff,Khaki,Kitchen,Instant-read thermometer for accurate cooking temperatures.
+665,Garlic Herb Marinade,3.29,http://dummyimage.com/164x100.png/dddddd/000000,Maroon,Food - Marinades,"A savory marinade for meats, perfect for grilling."
+666,Hiking Water Bottle with Filter,29.99,http://dummyimage.com/110x100.png/ff4444/ffffff,Blue,Outdoor,8oz water bottle with built-in filter for clean drinking water.
+667,Incense Holder,14.99,http://dummyimage.com/158x100.png/5fa2dd/ffffff,Violet,Home,Ceramic incense holder for a calming atmosphere.
+668,Organic Vanilla Bean Ice Cream,5.99,http://dummyimage.com/154x100.png/dddddd/000000,Red,Food - Frozen Desserts,"Creamy ice cream made with real vanilla beans, perfect for desserts."
+669,Board Game,34.99,http://dummyimage.com/248x100.png/dddddd/000000,Fuscia,Toys,Strategic board game for family game nights.
+670,Hand Crank Blender,18.99,http://dummyimage.com/178x100.png/5fa2dd/ffffff,Red,Kitchen,Manual blender for smoothies and mixing ingredients on the go.
+671,Wireless Wi-Fi Extender,49.99,http://dummyimage.com/165x100.png/dddddd/000000,Teal,Electronics,Boosts your Wi-Fi coverage for better connectivity.
+672,Electric Milk Frother,19.99,http://dummyimage.com/204x100.png/dddddd/000000,Puce,Kitchen,Handheld frother for creating frothed milk for coffee.
+673,Sun Protection Clothing,44.99,http://dummyimage.com/239x100.png/cc0000/ffffff,Teal,Clothing,UV-blocking clothing for outdoor activities.
+674,Electric Blanket,59.99,http://dummyimage.com/145x100.png/cc0000/ffffff,Red,Home,Extra soft electric blanket with adjustable heat settings.
+675,Hydration Backpack,39.99,http://dummyimage.com/182x100.png/dddddd/000000,Blue,Outdoor,Lightweight backpack with an insulated water reservoir for hydration on the go.
+676,Wire Shelving Unit,69.99,http://dummyimage.com/226x100.png/cc0000/ffffff,Teal,Home,Adjustable shelving unit for home or garage storage.
+677,Cinnamon Raisin Bagels,4.19,http://dummyimage.com/115x100.png/cc0000/ffffff,Blue,Food - Bakery,Soft bagels flavored with cinnamon and raisins.
+678,Spicy Salsa Verde,3.49,http://dummyimage.com/123x100.png/dddddd/000000,Khaki,Food - Condiments,"Green salsa with a spicy kick, great for dipping."
+679,Homestyle Beef Stew,7.99,http://dummyimage.com/145x100.png/ff4444/ffffff,Orange,Food - Canned Soups,"Hearty beef stew with vegetables, ready to heat and serve."
+680,Kids' Educational Tablet,129.99,http://dummyimage.com/137x100.png/ff4444/ffffff,Orange,Electronics,Learning tablet with kid-friendly educational apps.
+681,Maple Cinnamon Granola,4.29,http://dummyimage.com/149x100.png/ff4444/ffffff,Violet,Food - Cereals,"Crunchy granola mixed with maple syrup and cinnamon, perfect for breakfast or snacks."
+682,Pet Grooming Scissors,16.99,http://dummyimage.com/126x100.png/dddddd/000000,Red,Pets,Quality scissors designed for easy pet grooming.
+683,Vegetable Fried Rice Mix,3.99,http://dummyimage.com/113x100.png/5fa2dd/ffffff,Puce,Food - Frozen Food,A quick and easy fried rice mix with colorful veggies and savory seasoning.
+684,Kale Salad Kit,4.99,http://dummyimage.com/214x100.png/ff4444/ffffff,Fuscia,Food - Salads,"Ready-to-eat salad with kale, lemon, and cheese."
+685,Skincare Set,54.99,http://dummyimage.com/165x100.png/5fa2dd/ffffff,Blue,Beauty,All-natural skincare set for daily use.
+686,Heavy-Duty Utility Tote,34.99,http://dummyimage.com/247x100.png/5fa2dd/ffffff,Blue,Accessories,"Large, durable tote bag for shopping and outdoor activities."
+687,Incense Holder,14.99,http://dummyimage.com/240x100.png/cc0000/ffffff,Red,Home,Ceramic incense holder for a calming atmosphere.
+688,Teriyaki Beef Jerky,5.49,http://dummyimage.com/242x100.png/ff4444/ffffff,Violet,Food - Snacks,Savory and chewy beef jerky with teriyaki flavor.
+689,Weighted Blanket for Adults,59.99,http://dummyimage.com/206x100.png/cc0000/ffffff,Green,Health,A calming blanket that provides gentle pressure for relaxation.
+690,Non-Stick Baking Sheet,18.99,http://dummyimage.com/207x100.png/5fa2dd/ffffff,Indigo,Kitchen,Durable baking sheet coated for easy food release.
+691,Garden Kneeler and Seat,39.99,http://dummyimage.com/203x100.png/dddddd/000000,Aquamarine,Garden,Convertible kneeler and seat for gardening comfort.
+692,Garlic Breadsticks,3.49,http://dummyimage.com/249x100.png/dddddd/000000,Yellow,Food - Sides,"Ready-to-bake garlic breadsticks, perfect with pasta dishes."
+693,Essential White Button-Up,44.99,http://dummyimage.com/150x100.png/ff4444/ffffff,Green,Clothing - Shirts,A classic white button-up shirt for a polished appearance.
+694,Compact Dishwasher,299.99,http://dummyimage.com/226x100.png/ff4444/ffffff,Blue,Home Appliances,Countertop dishwasher for small kitchens.
+695,Almond Butter,6.49,http://dummyimage.com/194x100.png/5fa2dd/ffffff,Purple,Food - Condiments,Creamy almond butter made from roasted almonds.
+696,Dual Function Electric Skillet,59.99,http://dummyimage.com/165x100.png/ff4444/ffffff,Turquoise,Kitchen,"Skillet that can fry, grill, and sauté with ease."
+697,Noise-Canceling Earbuds,79.99,http://dummyimage.com/249x100.png/dddddd/000000,Green,Audio,Wireless earbuds designed for immersive sound experience.
+698,Lemon Dill Chicken Skewers,9.99,http://dummyimage.com/218x100.png/ff4444/ffffff,Fuscia,Food - Meat,"Marinated chicken skewers with lemon and dill flavor, grilled to perfection."
+699,Essential Oils Diffuser Necklace,19.99,http://dummyimage.com/138x100.png/cc0000/ffffff,Orange,Health,Wearable diffuser for scenting your space and body.
+700,Buffalo Cauliflower Wings,6.99,http://dummyimage.com/150x100.png/ff4444/ffffff,Pink,Food - Frozen Foods,Crispy cauliflower bites tossed in spicy buffalo sauce.
+701,Car Sunshade,19.99,http://dummyimage.com/161x100.png/cc0000/ffffff,Crimson,Automotive,Windshield sunshade for car interior protection.
+702,Chunky Knit Sweater,59.99,http://dummyimage.com/215x100.png/ff4444/ffffff,Green,Clothing - Tops,Cozy oversized sweater perfect for chilly days with a textured knit design.
+703,LED Flashlight with Rechargeable Batteries,19.99,http://dummyimage.com/116x100.png/5fa2dd/ffffff,Red,Outdoor,Bright flashlight with rechargeable batteries included.
+704,Eco-Friendly Stainless Steel Straws,12.99,http://dummyimage.com/154x100.png/dddddd/000000,Red,Kitchen,Reusable straws that come with a cleaning brush.
+705,Tailgating Set,89.99,http://dummyimage.com/141x100.png/cc0000/ffffff,Orange,Outdoor,Complete set for grilling and tailgating fun.
+706,Spicy Chicken Wings,9.99,http://dummyimage.com/151x100.png/5fa2dd/ffffff,Teal,Food - Meat,"Wide range of flavored wings, perfect for parties or casual snacking."
+707,Sunglasses,29.99,http://dummyimage.com/139x100.png/ff4444/ffffff,Fuscia,Accessories,Polarized sunglasses with UV protection.
+708,Gluten-Free Biscuits,3.79,http://dummyimage.com/231x100.png/cc0000/ffffff,Pink,Food - Baking,Fluffy biscuits made without gluten
+709,Cranberry Almond Granola,4.29,http://dummyimage.com/187x100.png/5fa2dd/ffffff,Orange,Food - Breakfast,"Crunchy granola with oats, almonds, and dried cranberries."
+710,Granola,4.79,http://dummyimage.com/185x100.png/5fa2dd/ffffff,Mauv,Food - Breakfast,Crunchy and flavorful mix of oats and honey.
+711,Mediterranean Olives,6.49,http://dummyimage.com/123x100.png/cc0000/ffffff,Aquamarine,Food - Condiments,A mix of brined Mediterranean olives for snacking.
+712,Blackberry Compote,5.29,http://dummyimage.com/223x100.png/dddddd/000000,Aquamarine,Food - Condiments,"Sweet blackberry compote, perfect for topping desserts."
+713,Travel Jewelry Organizer,19.99,http://dummyimage.com/112x100.png/dddddd/000000,Purple,Accessories,Compact storage for your jewelry while traveling.
+714,Kids' Educational Tablet,129.99,http://dummyimage.com/212x100.png/cc0000/ffffff,Crimson,Electronics,Learning tablet with kid-friendly educational apps.
+715,Dried Apricots,3.79,http://dummyimage.com/180x100.png/ff4444/ffffff,Mauv,Food - Dried Fruits,"Sweet, chewy dried apricots, great for snacking or baking."
+716,Cranberry Orange Juice,2.49,http://dummyimage.com/242x100.png/dddddd/000000,Indigo,Food - Beverages,Refreshing juice blend of cranberries and oranges.
+717,3D Night Light,19.99,http://dummyimage.com/112x100.png/5fa2dd/ffffff,Fuscia,Home,Color-changing 3D night light for kids' rooms.
+718,Glass Water Bottle,25.99,http://dummyimage.com/247x100.png/5fa2dd/ffffff,Violet,Fitness,Borosilicate glass water bottle with silicone sleeve.
+719,Essential Oil Diffuser,34.99,http://dummyimage.com/204x100.png/dddddd/000000,Violet,Health,Ultrasonic diffuser that helps create a calming atmosphere.
+720,Stainless Steel Grater,14.99,http://dummyimage.com/124x100.png/dddddd/000000,Violet,Kitchen,Multi-functional grater for cheese and vegetables.
+721,Gardening Tool Belt,22.99,http://dummyimage.com/237x100.png/cc0000/ffffff,Fuscia,Garden,Convenient belt with pockets for easy access to tools while gardening.
+722,Two-Tier Fruit Basket,29.99,http://dummyimage.com/195x100.png/cc0000/ffffff,Orange,Home,Stylish fruit basket for kitchen or dining room.
+723,Sun Protection Clothing,44.99,http://dummyimage.com/174x100.png/cc0000/ffffff,Puce,Clothing,UV-blocking clothing for outdoor activities.
+724,Fitness Mat,49.99,http://dummyimage.com/197x100.png/5fa2dd/ffffff,Mauv,Fitness,Thick and durable mat for workouts and yoga.
+725,Vegetable Lasagna,6.99,http://dummyimage.com/222x100.png/5fa2dd/ffffff,Blue,Food - Frozen Foods,"Layers of pasta, veggies, and cheese baked to perfection."
+726,BBQ Lentil Chips,3.49,http://dummyimage.com/233x100.png/dddddd/000000,Mauv,Food - Snacks,Savory lentil chips with BBQ flavor
+727,Laptop Stand,29.99,http://dummyimage.com/106x100.png/dddddd/000000,Turquoise,Accessories,Adjustable laptop stand for better ergonomics.
+728,Tortilla Chips,2.99,http://dummyimage.com/132x100.png/cc0000/ffffff,Violet,Food - Snacks,"Crispy tortilla chips, perfect for dipping."
+729,Home Brewing Starter Kit,79.99,http://dummyimage.com/222x100.png/dddddd/000000,Goldenrod,Food,All-in-one kit for brewing beer at home.
+730,Over-Ear Headphones,59.99,http://dummyimage.com/184x100.png/5fa2dd/ffffff,Teal,Audio,Comfortable over-ear headphones with deep bass.
+731,Garden Hoses with Expandable Features,34.99,http://dummyimage.com/142x100.png/ff4444/ffffff,Violet,Garden,"Lightweight, expandable hoses for easy handling."
+732,Heavy-Duty Utility Tote,34.99,http://dummyimage.com/147x100.png/dddddd/000000,Blue,Accessories,"Large, durable tote bag for shopping and outdoor activities."
+733,Action Camera,199.99,http://dummyimage.com/157x100.png/dddddd/000000,Aquamarine,Electronics,Compact action camera for capturing adventures.
+734,Ceramic Planter Set,39.99,http://dummyimage.com/103x100.png/5fa2dd/ffffff,Pink,Home,Set of decorative ceramic planters for indoor plants.
+735,Yoga Mat,25,http://dummyimage.com/249x100.png/dddddd/000000,Teal,Fitness,Non-slip yoga mat for optimal grip and comfort.
+736,DIY Lip Balm Making Kit,22.99,http://dummyimage.com/148x100.png/cc0000/ffffff,Maroon,Crafts,Complete kit to make your own flavored lip balms at home.
+737,Car Vacuum,49.99,http://dummyimage.com/221x100.png/cc0000/ffffff,Yellow,Automotive,Portable car vacuum cleaner with strong suction.
+738,Ceramic Non-Stick Frying Pan,39.99,http://dummyimage.com/129x100.png/5fa2dd/ffffff,Blue,Kitchen,Durable non-stick frying pan for easy cooking and cleaning.
+739,Electric Skillet,49.99,http://dummyimage.com/193x100.png/ff4444/ffffff,Purple,Kitchen,Versatile electric skillet for stir-frying and searing.
+740,Ice Cream Maker,79.99,http://dummyimage.com/117x100.png/cc0000/ffffff,Mauv,Kitchen,Homemade ice cream maker for delicious desserts.
+741,LED Under Cabinet Lighting,29.99,http://dummyimage.com/193x100.png/cc0000/ffffff,Blue,Home,Easy-to-install lights to brighten kitchen cabinets and workspaces.
+742,Bluetooth Car Adapter,24.99,http://dummyimage.com/127x100.png/ff4444/ffffff,Aquamarine,Automotive,Connect your phone to the car's audio system via Bluetooth.
+743,Vegetable and Cheese Quesadillas,6.99,http://dummyimage.com/204x100.png/cc0000/ffffff,Violet,Food - Frozen,Flour tortilla filled with cheese and a medley of vegetables.
+744,Instant Mashed Potatoes,1.79,http://dummyimage.com/231x100.png/dddddd/000000,Khaki,Food - Sides,Quick and easy side dish with buttery flavor.
+745,DIY Candle Making Kit,22.99,http://dummyimage.com/132x100.png/cc0000/ffffff,Mauv,Crafts,Everything you need to make your own candles.
+746,First Aid Kit,29.99,http://dummyimage.com/213x100.png/5fa2dd/ffffff,Orange,Health,Comprehensive first aid kit for emergency situations.
+747,Garlic and Herb Cream Cheese,3.49,http://dummyimage.com/229x100.png/ff4444/ffffff,Fuscia,Food - Dairy,Spreadable cream cheese with garlic and herbs.
+748,Cold Brew Coffee Maker,34.99,http://dummyimage.com/186x100.png/dddddd/000000,Violet,Kitchen,Brews coffee with a smooth flavor without bitterness.
+749,Spicy Vegetable Sushi Rolls,8.49,http://dummyimage.com/133x100.png/dddddd/000000,Aquamarine,Food - Prepared Foods,Vegan sushi filled with spicy vegetables and avocado.
+750,Blue Denim Jeans,49.99,http://dummyimage.com/231x100.png/cc0000/ffffff,Red,Clothing - Bottoms,Classic fit blue jeans with a slight stretch for comfort and durability.
+751,Electric Hot Pot,49.99,http://dummyimage.com/188x100.png/dddddd/000000,Orange,Kitchen,Compact electric pot for hot pot dining at home.
+752,Fitness Resistance Bands Set,34.99,http://dummyimage.com/172x100.png/5fa2dd/ffffff,Fuscia,Fitness,Variety of bands suitable for all fitness levels.
+753,Sporty Leggings,39.99,http://dummyimage.com/118x100.png/ff4444/ffffff,Blue,Clothing - Activewear,Functional leggings designed for maximum comfort during workouts.
+754,Wireless Induction Charger,19.99,http://dummyimage.com/230x100.png/dddddd/000000,Yellow,Electronics,Qi-certified charger for fast wireless charging of smartphones.
+755,Travel Pillow,22.99,http://dummyimage.com/147x100.png/cc0000/ffffff,Blue,Travel,Memory foam travel pillow for neck support.
+756,Herb-Infused Olive Oil,8.99,http://dummyimage.com/148x100.png/cc0000/ffffff,Blue,Food - Oils,Premium olive oil infused with herbs for enhanced flavor.
+757,Lemon Sorbet,4.99,http://dummyimage.com/143x100.png/dddddd/000000,Green,Food - Frozen Desserts,Refreshing sorbet with a zesty lemon flavor.
+758,Garden Tool Set with Carrying Bag,39.99,http://dummyimage.com/209x100.png/cc0000/ffffff,Orange,Garden,Complete set for garden care with a handy carrying bag.
+759,Tabletop Fire Pit,79.99,http://dummyimage.com/100x100.png/dddddd/000000,Yellow,Outdoor,Compact and stylish indoor/outdoor fire pit for ambiance.
+760,Striped Long Sleeve Shirt,29.99,http://dummyimage.com/196x100.png/ff4444/ffffff,Khaki,Clothing - Shirts,A casual striped long sleeve shirt that's perfect for layering.
+761,Crispy Rice Treats,3.5,http://dummyimage.com/124x100.png/cc0000/ffffff,Turquoise,Food - Snacks,Classic marshmallow treats made with crispy rice.
+762,Magnetic Whiteboard,34.99,http://dummyimage.com/168x100.png/5fa2dd/ffffff,Mauv,Office,Reusable whiteboard for notes and reminders with magnetic backing.
+763,Spinach and Feta Wraps,4.99,http://dummyimage.com/152x100.png/ff4444/ffffff,Mauv,Food - Prepared Foods,Whole wheat wraps filled with spinach and feta cheese.
+764,Strawberry Banana Smoothie Pack,4.99,http://dummyimage.com/220x100.png/5fa2dd/ffffff,Indigo,Food - Frozen,Frozen smoothie pack with strawberries and bananas.
+765,Fitness Resistance Bands Kit,29.99,http://dummyimage.com/164x100.png/ff4444/ffffff,Maroon,Fitness,Set with various resistance bands for workouts.
+766,Ginger Tea,4.99,http://dummyimage.com/170x100.png/dddddd/000000,Yellow,Food - Beverages,A soothing herbal tea made from ginger root.
+767,Honey BBQ Riblets,12.99,http://dummyimage.com/213x100.png/dddddd/000000,Fuscia,Food - Meat,"Tender riblets coated in a honey barbecue glaze, perfect for grilling or baking."
+768,Children's Garden Tool Set,22.99,http://dummyimage.com/122x100.png/5fa2dd/ffffff,Puce,Garden,Colorful and child-friendly gardening tools for little hands.
+769,Adjustable Pedicure Footrest,39.99,http://dummyimage.com/225x100.png/5fa2dd/ffffff,Purple,Beauty,Ergonomic footrest for easier pedicure treatment.
+770,Spicy Salsa Verde,3.49,http://dummyimage.com/124x100.png/ff4444/ffffff,Yellow,Food - Condiments,"Green salsa with a spicy kick, great for dipping."
+771,Travel Laundry Bag,9.99,http://dummyimage.com/238x100.png/cc0000/ffffff,Red,Travel,Compact laundry bag for travel use.
+772,Karaoke Microphone,39.99,http://dummyimage.com/188x100.png/ff4444/ffffff,Yellow,Music,Wireless microphone for singing and performances.
+773,Professional Chef Knife,89.99,http://dummyimage.com/186x100.png/ff4444/ffffff,Yellow,Kitchen,High-carbon stainless steel chef knife for precision cutting.
+774,Outdoor String Lights,24.99,http://dummyimage.com/147x100.png/ff4444/ffffff,Teal,Outdoor,Fairy lights perfect for decorating patios and backyards.
+775,Pet Nail Clipper,12.99,http://dummyimage.com/203x100.png/ff4444/ffffff,Goldenrod,Pets,Safe and easy-to-use nail clippers for pets.
+776,Coconut Rice,2.29,http://dummyimage.com/148x100.png/5fa2dd/ffffff,Red,Food - Frozen,Fluffy rice cooked with coconut milk for a tropical twist.
+777,Kids' Science Experiment Kit,29.99,http://dummyimage.com/210x100.png/dddddd/000000,Mauv,Toys,Engaging kit with science experiments for children.
+778,Oven-Baked Chicken Tenders,6.99,http://dummyimage.com/129x100.png/dddddd/000000,Puce,Food - Meat,"Crispy and juicy chicken tenders, perfect for dipping."
+779,Adjustable Stand for Tablets and Smartphones,19.99,http://dummyimage.com/211x100.png/5fa2dd/ffffff,Green,Electronics,Multi-angle stand for easy viewing of devices.
+780,Peanut Butter Cookies,3.49,http://dummyimage.com/235x100.png/ff4444/ffffff,Khaki,Food - Bakery,Soft and chewy cookies made with creamy peanut butter.
+781,LED Strip Lights with Remote Control,29.99,http://dummyimage.com/123x100.png/ff4444/ffffff,Maroon,Home,Color-changing LED lights for home decoration with remote.
+782,Canned Black Beans,1.29,http://dummyimage.com/233x100.png/5fa2dd/ffffff,Mauv,Food - Canned Goods,"Delicious and hearty black beans, great for soups or salads."
+783,Car Escape Tool,12.99,http://dummyimage.com/140x100.png/dddddd/000000,Fuscia,Automotive,Multi-functional tool for emergency situations in the car.
+784,Chili Lime Seasoning,2.99,http://dummyimage.com/114x100.png/dddddd/000000,Puce,Food - Spices,Zesty seasoning great for tacos and grilling.
+785,Sliced Bread,2.99,http://dummyimage.com/128x100.png/dddddd/000000,Crimson,Food - Bakery,"Soft and fresh sliced bread, perfect for sandwiches."
+786,Almond Flour Biscuits,6.49,http://dummyimage.com/100x100.png/5fa2dd/ffffff,Khaki,Food - Bakery,Gluten-free biscuits made with almond flour.
+787,Portable Folding Picnic Table,69.99,http://dummyimage.com/107x100.png/5fa2dd/ffffff,Puce,Outdoor,Easy-to-set-up picnic table for outdoor dining.
+788,Personalized Pet ID Tags,9.99,http://dummyimage.com/237x100.png/ff4444/ffffff,Teal,Pets,Custom engraved ID tags for pets with your contact information.
+789,Trackpad for Laptop,49.99,http://dummyimage.com/147x100.png/dddddd/000000,Teal,Accessories,Wireless trackpad for enhanced laptop navigation.
+790,Oven Thermometer,11.99,http://dummyimage.com/119x100.png/ff4444/ffffff,Blue,Kitchen,High-precision oven thermometer for accurate cooking.
+791,Folding Pocket Knife,24.99,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Khaki,Tools,Compact knife with safety lock for everyday use.
+792,Buttermilk Pancakes,3.99,http://dummyimage.com/162x100.png/cc0000/ffffff,Turquoise,Food - Breakfast,Fluffy pancakes with buttermilk flavor.
+793,Chipotle Sauce,3.29,http://dummyimage.com/147x100.png/cc0000/ffffff,Goldenrod,Food - Condiments,Spicy sauce made with chipotle peppers
+794,Silicone Cooking Utensils Set,34.99,http://dummyimage.com/177x100.png/cc0000/ffffff,Fuscia,Kitchen,Non-stick and heat-resistant utensils for cooking.
+795,Zesty Cilantro Lime Dressing,3.29,http://dummyimage.com/226x100.png/ff4444/ffffff,Mauv,Food - Condiments,A bright and zesty dressing perfect for salads and tacos.
+796,Gardening Gloves with Claws,24.99,http://dummyimage.com/217x100.png/cc0000/ffffff,Puce,Garden,Durable gloves with built-in claws for digging and planting.
+797,Folding Exercise Bike,199.99,http://dummyimage.com/204x100.png/dddddd/000000,Green,Fitness,Space-saving bike for indoor workouts.
+798,Brownie Bites,4.99,http://dummyimage.com/206x100.png/dddddd/000000,Maroon,Food - Baked Goods,"Fudgy brownie bites, perfect for sharing or snacking."
+799,Chino Shorts,34.99,http://dummyimage.com/149x100.png/cc0000/ffffff,Crimson,Clothing - Bottoms,Classic chino shorts in a versatile color for summer adventures.
+800,Peanut Butter Filled Pretzels,3.99,http://dummyimage.com/150x100.png/5fa2dd/ffffff,Puce,Food - Snacks,Salty pretzels filled with creamy peanut butter.
+801,Gluten-Free Pancake Mix,5.99,http://dummyimage.com/109x100.png/cc0000/ffffff,Violet,Food - Baking Goods,"Fluffy and delicious pancake mix, perfect for a gluten-free breakfast."
+802,Quality Chef Apron,19.99,http://dummyimage.com/145x100.png/5fa2dd/ffffff,Red,Kitchen,Durable apron to keep clothes clean while cooking.
+803,Cat Tree with Scratching Posts,79.99,http://dummyimage.com/154x100.png/ff4444/ffffff,Fuscia,Pets,Multi-level cat tree for play and scratching.
+804,Pepperoni Pizza Roll-Ups,5.99,http://dummyimage.com/225x100.png/ff4444/ffffff,Maroon,Food - Frozen Foods,"Savory pizza filled with pepperoni and cheese, ready to microwave."
+805,Compact Digital Camera,249.99,http://dummyimage.com/215x100.png/cc0000/ffffff,Purple,Photography,High-resolution camera for stunning photos.
+806,Stainless Steel Straws,12.99,http://dummyimage.com/144x100.png/5fa2dd/ffffff,Goldenrod,Kitchen,Set of reusable stainless steel straws for drinks.
+807,Woven Storage Baskets,24.99,http://dummyimage.com/101x100.png/ff4444/ffffff,Red,Home,Stylish baskets for organizing various items in your home.
+808,Garam Masala Spice Blend,2.79,http://dummyimage.com/213x100.png/ff4444/ffffff,Aquamarine,Food - Spices,A fragrant Indian spice blend for curries and stews.
+809,Coconut Chips,3.59,http://dummyimage.com/176x100.png/5fa2dd/ffffff,Yellow,Food - Snacks,"Crunchy, toasted coconut chips for snacking."
+810,Cranberry Juice,3.69,http://dummyimage.com/115x100.png/dddddd/000000,Aquamarine,Food - Beverages,Refreshing cranberry juice with no added sugar.
+811,Wireless Charger,24.99,http://dummyimage.com/194x100.png/cc0000/ffffff,Crimson,Accessories,Qi-certified wireless charger for fast charging.
+812,Sweet Potato Fries,3.99,http://dummyimage.com/149x100.png/dddddd/000000,Puce,Food - Frozen Foods,"Crispy sweet potato fries, a delicious side dish."
+813,Toasted Coconut Granola,4.99,http://dummyimage.com/206x100.png/5fa2dd/ffffff,Yellow,Food - Breakfast,"Crunchy granola with toasted coconut flakes, perfect for breakfast or snacks."
+814,Sweet Potato Chips,2.99,http://dummyimage.com/131x100.png/cc0000/ffffff,Aquamarine,Food - Snacks,"Deliciously crunchy sweet potato chips, seasoned to perfection."
+815,Beef Jerky,5.99,http://dummyimage.com/174x100.png/ff4444/ffffff,Green,Food - Snacks,"Savory, protein-rich beef jerky for on-the-go snacking."
+816,Workstation Laptop Stand,49.99,http://dummyimage.com/210x100.png/ff4444/ffffff,Goldenrod,Office,Adjustable stand to improve ergonomics while working on a laptop.
+817,Classic Pesto Sauce,4.29,http://dummyimage.com/182x100.png/cc0000/ffffff,Crimson,Food - Sauces,"Fresh basil pesto, perfect for pasta or as a sandwich spread."
+818,Organic Cucumber,1.29,http://dummyimage.com/157x100.png/cc0000/ffffff,Green,Food - Vegetables,Fresh organic cucumber perfect for salads or snacking.
+819,Travel Mug with Leak-Proof Lid,24.99,http://dummyimage.com/131x100.png/cc0000/ffffff,Fuscia,Kitchen,Stainless steel travel mug that keeps drinks hot or cold.
+820,Almond Flour Biscuits,6.49,http://dummyimage.com/217x100.png/ff4444/ffffff,Maroon,Food - Bakery,Gluten-free biscuits made with almond flour.
+821,Insulated Lunch Bag,24.99,http://dummyimage.com/144x100.png/5fa2dd/ffffff,Indigo,Kitchen,Stylish insulated lunch bag for on-the-go meals.
+822,Cordless Electric Screwdriver,39.99,http://dummyimage.com/105x100.png/dddddd/000000,Aquamarine,Tools,Rechargeable screwdriver with multiple bits for DIY projects.
+823,Robot Vacuum Cleaner,299.99,http://dummyimage.com/214x100.png/ff4444/ffffff,Puce,Home Appliances,Smart robotic vacuum for automatic cleaning.
+824,Peanut Butter Banana Smoothie Mix,4.49,http://dummyimage.com/235x100.png/5fa2dd/ffffff,Purple,Food - Beverages,"Smoothie mix combining peanut butter and banana, great for a quick breakfast."
+825,Chicken Salad Kit,5.99,http://dummyimage.com/243x100.png/ff4444/ffffff,Puce,Food - Prepared Foods,All-in-one kit for making delicious chicken salad.
+826,Eco-Friendly Beeswax Wraps,14.99,http://dummyimage.com/240x100.png/ff4444/ffffff,Pink,Kitchen,"Reusable wraps for food storage, replacing plastic wraps."
+827,Greek Yogurt Parfait,4.49,http://dummyimage.com/111x100.png/ff4444/ffffff,Violet,Food - Dairy,"Layered Greek yogurt with granola and mixed berries, ready to enjoy."
+828,Spicy Chicken Wings,9.99,http://dummyimage.com/126x100.png/ff4444/ffffff,Teal,Food - Meat,"Wide range of flavored wings, perfect for parties or casual snacking."
+829,Garden Hose Reel,49.99,http://dummyimage.com/164x100.png/ff4444/ffffff,Blue,Garden,Compact hose reel to keep your garden tidy.
+830,Pet First Aid Kit,29.99,http://dummyimage.com/171x100.png/ff4444/ffffff,Aquamarine,Pets,Essential kit for taking care of your pets' health emergencies.
+831,Crispy Chickpeas,2.99,http://dummyimage.com/228x100.png/dddddd/000000,Fuscia,Food - Snacks,Roasted chickpeas seasoned for a crunchy snack.
+832,Creamy Ranch Dressing,2.49,http://dummyimage.com/221x100.png/cc0000/ffffff,Yellow,Food - Dressings,Classic ranch dressing for salads and dipping.
+833,Foldable Picnic Table,49.99,http://dummyimage.com/216x100.png/dddddd/000000,Blue,Outdoor,Lightweight and portable picnic table for outdoor use.
+834,Grapes (red),3.49,http://dummyimage.com/180x100.png/dddddd/000000,Teal,Food - Produce,"Fresh seedless red grapes, perfect for snacking."
+835,Saffron Rice Mix,2.99,http://dummyimage.com/213x100.png/dddddd/000000,Puce,Food - Grains,Flavorful rice mix with saffron and spices.
+836,Veggie Chips Variety Pack,3.79,http://dummyimage.com/140x100.png/5fa2dd/ffffff,Green,Food - Snacks,A colorful variety of crunchy veggie chips for snacking.
+837,Pet Bed,39.99,http://dummyimage.com/150x100.png/dddddd/000000,Blue,Pets,Comfortable pet bed for small to medium-sized dogs.
+838,Marinara Parmesan Baked Ziti,8.49,http://dummyimage.com/152x100.png/dddddd/000000,Crimson,Food - Frozen Meals,Ziti pasta baked with marinara and parmesan cheese
+839,Peach Mango Smoothie Mix,5.99,http://dummyimage.com/173x100.png/5fa2dd/ffffff,Purple,Food - Beverages,A blend of peach and mango for a tropical smoothie.
+840,Solar Power Bank,39.99,http://dummyimage.com/218x100.png/ff4444/ffffff,Blue,Electronics,Eco-friendly power bank that charges via sunlight.
+841,Ribbed Knit Dress,59.99,http://dummyimage.com/247x100.png/cc0000/ffffff,Goldenrod,Clothing - Dresses,A fitted ribbed knit dress that hugs your curves perfectly.
+842,Salsa,3.49,http://dummyimage.com/202x100.png/ff4444/ffffff,Aquamarine,Food - Condiments,"Fresh and zesty salsa, perfect for nachos."
+843,BBQ Sauce,3.49,http://dummyimage.com/214x100.png/5fa2dd/ffffff,Purple,Food - Condiments,"A smoky barbecue sauce, ideal for grilling and dipping."
+844,Coffee Making Kit,44.99,http://dummyimage.com/192x100.png/dddddd/000000,Turquoise,Kitchen,Complete set to brew coffee with different methods.
+845,Coconut Milk,2.49,http://dummyimage.com/185x100.png/5fa2dd/ffffff,Fuscia,Food - Canned Goods,Rich coconut milk for curries and desserts.
+846,Coffee Capsule Dispenser,24.99,http://dummyimage.com/247x100.png/5fa2dd/ffffff,Turquoise,Kitchen,Organize coffee capsules with this stylish dispenser.
+847,Sun-Dried Tomatoes,3.99,http://dummyimage.com/131x100.png/dddddd/000000,Violet,Food - Vegetables,Dried tomatoes packed with deep flavor for salads and pasta.
+848,Peach Mango Smoothie Mix,5.99,http://dummyimage.com/246x100.png/cc0000/ffffff,Pink,Food - Beverages,A blend of peach and mango for a tropical smoothie.
+849,Canned Sardines,3.29,http://dummyimage.com/249x100.png/ff4444/ffffff,Khaki,Food - Seafood,Savory sardines packed in olive oil.
+850,Golf Putting Green,79.99,http://dummyimage.com/123x100.png/5fa2dd/ffffff,Violet,Sports,Indoor putting green for practicing your putting skills.
+851,Garlic Herb Marinade,3.29,http://dummyimage.com/109x100.png/5fa2dd/ffffff,Turquoise,Food - Marinades,"A savory marinade for meats, perfect for grilling."
+852,Reusable Produce Bags Set,14.99,http://dummyimage.com/107x100.png/5fa2dd/ffffff,Aquamarine,Kitchen,Eco-friendly mesh bags for shopping produce at the market.
+853,Chocolate Coconut Protein Balls,2.99,http://dummyimage.com/209x100.png/cc0000/ffffff,Fuscia,Food - Snacks,No-bake protein balls with chocolate and coconut flavors.
+854,Electric Food Steamer,59.99,http://dummyimage.com/202x100.png/5fa2dd/ffffff,Mauv,Kitchen,Electric food steamer for healthy cooking.
+855,Wooden Blocks,24.99,http://dummyimage.com/216x100.png/ff4444/ffffff,Indigo,Toys,Classic wooden building blocks for toddlers.
+856,Foot Massager Machine,59.99,http://dummyimage.com/203x100.png/ff4444/ffffff,Green,Health,Electric foot massager for relaxation and relief.
+857,Garlic Herb Grilled Chicken,8.99,http://dummyimage.com/101x100.png/5fa2dd/ffffff,Blue,Food - Frozen Foods,Marinated grilled chicken breasts seasoned with garlic and herbs.
+858,Sea Salt Tortilla Chips,2.49,http://dummyimage.com/206x100.png/dddddd/000000,Violet,Food - Snacks,"Crunchy tortilla chips with a hint of sea salt, great with dips."
+859,Breathable Face Mask Set,14.99,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Mauv,Health,Comfortable and reusable face masks in different styles.
+860,Berry Smoothie Mix,4.99,http://dummyimage.com/206x100.png/5fa2dd/ffffff,Blue,Food - Frozen Foods,Frozen mix for quick berry smoothies.
+861,Chocolate Avocado Pudding,4.99,http://dummyimage.com/240x100.png/ff4444/ffffff,Orange,Food - Desserts,Rich and creamy pudding made with ripe avocados and cocoa.
+862,Siphon Coffee Maker,49.99,http://dummyimage.com/186x100.png/ff4444/ffffff,Teal,Kitchen,Unique coffee brewing method for a flavorful experience.
+863,Organic Coconut Oil,8.99,http://dummyimage.com/180x100.png/5fa2dd/ffffff,Blue,Food - Oils,"Cold-pressed coconut oil, perfect for cooking, baking, or skin care."
+864,V-Neck Sweater,49.99,http://dummyimage.com/207x100.png/5fa2dd/ffffff,Pink,Clothing - Tops,Classic V-neck sweater crafted from soft wool for warmth and style.
+865,Watercolor Paint Set,19.99,http://dummyimage.com/208x100.png/dddddd/000000,Maroon,Art Supplies,Vibrant watercolor paints that come with brushes and palettes.
+866,Peach Green Tea,3.49,http://dummyimage.com/244x100.png/dddddd/000000,Crimson,Food - Beverages,"Refreshing green tea infused with peach, perfect for a hot day."
+867,Smartphone Hand Grip,9.99,http://dummyimage.com/108x100.png/5fa2dd/ffffff,Pink,Accessories,Sturdy grip to hold your phone securely while taking selfies.
+868,Smoky BBQ Jackfruit,4.99,http://dummyimage.com/230x100.png/dddddd/000000,Green,Food - Grocery,Pulled jackfruit in a smoky BBQ sauce for a tasty vegan dish.
+869,Rustic Italian Breads,3.99,http://dummyimage.com/247x100.png/ff4444/ffffff,Teal,Food - Bakery,Freshly baked artisan bread with a crisp crust and soft center.
+870,Beef Stroganoff Meal Kit,12.99,http://dummyimage.com/157x100.png/dddddd/000000,Yellow,Food - Frozen Meals,Complete meal kit with everything needed to make beef stroganoff in under 30 minutes.
+871,Fitness Jump Rope,15.99,http://dummyimage.com/134x100.png/cc0000/ffffff,Orange,Fitness,Durable jump rope for cardio workouts.
+872,Canvas High-Top Sneakers,49.99,http://dummyimage.com/224x100.png/5fa2dd/ffffff,Indigo,Clothing - Footwear,Trendy high-top canvas sneakers for a stylish streetwear look.
+873,Frozen Edamame,3.29,http://dummyimage.com/225x100.png/5fa2dd/ffffff,Goldenrod,Food - Frozen Foods,"Lightly salted frozen edamame, a protein-packed snack."
+874,Bamboo Memory Foam Pillow,34.99,http://dummyimage.com/207x100.png/cc0000/ffffff,Crimson,Home,Ergonomically designed pillow with breathable bamboo cover.
+875,Puff Pastry,5.49,http://dummyimage.com/111x100.png/dddddd/000000,Crimson,Food - Bakery,Versatile puff pastry for pies and pastries.
+876,Handmade Leather Journal,39.99,http://dummyimage.com/241x100.png/ff4444/ffffff,Teal,Books,Beautiful leather-bound journal for writing and sketching.
+877,Black Olives,1.99,http://dummyimage.com/214x100.png/ff4444/ffffff,Blue,Food - Canned Goods,"Sliced black olives, perfect for salads and pizzas."
+878,Classic Baseball Cap,24.99,http://dummyimage.com/230x100.png/5fa2dd/ffffff,Purple,Clothing - Accessories,A timeless baseball cap that adds a sporty touch to any outfit.
+879,Pet Travel Bowl,10.99,http://dummyimage.com/156x100.png/5fa2dd/ffffff,Mauv,Pets,Collapsible travel bowl for pets on the go.
+880,Fitness Resistance Bands,29.99,http://dummyimage.com/117x100.png/5fa2dd/ffffff,Yellow,Fitness,Set of resistance bands for home workouts.
+881,Cotton Quilted Throw Blanket,39.99,http://dummyimage.com/216x100.png/cc0000/ffffff,Fuscia,Home,Cozy throw blanket perfect for adding warmth to your home.
+882,Mango Chili Salsa,4.29,http://dummyimage.com/115x100.png/5fa2dd/ffffff,Crimson,Food - Condiments,"A sweet and spicy salsa made with mangoes and a hint of chili, great with chips or grilled chicken."
+883,Honey Nut Cheerios,4.29,http://dummyimage.com/195x100.png/5fa2dd/ffffff,Indigo,Food - Cereal,Classic cereal made with whole grains and honey.
+884,Vegetable and Cheese Quesadillas,6.99,http://dummyimage.com/147x100.png/5fa2dd/ffffff,Puce,Food - Frozen,Flour tortilla filled with cheese and a medley of vegetables.
+885,Electric Bike,899.99,http://dummyimage.com/133x100.png/5fa2dd/ffffff,Indigo,Bicycles,Eco-friendly electric bike with a 30-mile range.
+886,Fruit Medley Juice,3.49,http://dummyimage.com/208x100.png/ff4444/ffffff,Pink,Food - Beverages,Refreshing juice blend made with various fresh fruits.
+887,Rainbow Veggie Chips,3.29,http://dummyimage.com/238x100.png/5fa2dd/ffffff,Aquamarine,Food - Snacks,"Colorful veggie chips made from beets, carrots, and sweet potatoes."
+888,Electric Wine Opener,29.99,http://dummyimage.com/232x100.png/cc0000/ffffff,Crimson,Kitchen,Rechargeable electric wine opener for effortless uncorking.
+889,Ranch Dressing,2.59,http://dummyimage.com/141x100.png/ff4444/ffffff,Green,Food - Condiments,"Creamy ranch dressing, perfect for salads and dips."
+890,Marinara Parmesan Baked Ziti,8.49,http://dummyimage.com/160x100.png/ff4444/ffffff,Pink,Food - Frozen Meals,Ziti pasta baked with marinara and parmesan cheese
+891,Maxi Wrap Dress,49.99,http://dummyimage.com/117x100.png/cc0000/ffffff,Goldenrod,Clothing - Dresses,A flowy maxi dress perfect for both casual and semi-formal occasions.
+892,Kids' Science Experiment Kit,29.99,http://dummyimage.com/125x100.png/cc0000/ffffff,Violet,Toys,Engaging kit with science experiments for children.
+893,Portable Water Filter,29.99,http://dummyimage.com/226x100.png/5fa2dd/ffffff,Green,Outdoor,Lightweight water filter for outdoor adventures.
+894,Reusable Coffee Filter,10.99,http://dummyimage.com/218x100.png/cc0000/ffffff,Mauv,Kitchen,Eco-friendly coffee filter for brewing.
+895,Shatterproof Wine Glasses,24.99,http://dummyimage.com/103x100.png/cc0000/ffffff,Indigo,Outdoor,"Durable, unbreakable wine glasses for outdoor use."
+896,Potato Wedge Seasoning,2.49,http://dummyimage.com/167x100.png/ff4444/ffffff,Turquoise,Food - Condiments,Seasoning mix for making crispy and flavorful potato wedges.
+897,Stainless Steel Straws,12.99,http://dummyimage.com/107x100.png/5fa2dd/ffffff,Maroon,Kitchen,Set of reusable stainless steel straws for drinks.
+898,Travel Beach Blanket,29.99,http://dummyimage.com/246x100.png/5fa2dd/ffffff,Blue,Outdoor,Sand-resistant and compact for outdoor and beach use.
+899,Lasagna Noodles,1.89,http://dummyimage.com/220x100.png/ff4444/ffffff,Indigo,Food - Pasta,Wide pasta sheets for making lasagna.
+900,Hibiscus Herbal Tea,3.29,http://dummyimage.com/250x100.png/5fa2dd/ffffff,Maroon,Food - Beverages,"Floral and refreshing herbal tea, great hot or iced."
+901,Organic Honeycrisp Apples,1.99,http://dummyimage.com/218x100.png/dddddd/000000,Fuscia,Food - Fruits,"Sweet and crisp apples, perfect for snacking."
+902,Ranch Dressing,2.59,http://dummyimage.com/179x100.png/dddddd/000000,Yellow,Food - Condiments,"Creamy ranch dressing, perfect for salads and dips."
+903,Teriyaki Salmon Fillets,9.99,http://dummyimage.com/226x100.png/dddddd/000000,Blue,Food - Seafood,"Frozen salmon fillets marinated in teriyaki sauce, ready to grill or bake."
+904,Car Vacuum Cleaner,39.99,http://dummyimage.com/196x100.png/ff4444/ffffff,Purple,Automotive,Compact vacuum designed specifically for cleaning vehicles.
+905,Graphic Hoodie,49.99,http://dummyimage.com/207x100.png/5fa2dd/ffffff,Maroon,Clothing - Outerwear,Bold graphic hoodie featuring a comfortable fit and soft fabric.
+906,Herb Seasoned Rice,2.99,http://dummyimage.com/212x100.png/5fa2dd/ffffff,Mauv,Food - Sides,A flavorful rice side dish seasoned with herbs and spices.
+907,Honey Wheat Pretzels,3.49,http://dummyimage.com/157x100.png/ff4444/ffffff,Teal,Food - Snacks,Crunchy pretzel sticks made with honey and whole wheat.
+908,Plant Pot Drip Trays,9.99,http://dummyimage.com/127x100.png/cc0000/ffffff,Orange,Garden,Prevent water damage with drip trays for potted plants.
+909,Electric Bike,899.99,http://dummyimage.com/180x100.png/cc0000/ffffff,Teal,Bicycles,Eco-friendly electric bike with a 30-mile range.
+910,Creamy Coleslaw Mix,2.39,http://dummyimage.com/106x100.png/dddddd/000000,Orange,Food - Produce,Shredded cabbage and carrots for coleslaw.
+911,Free-Range Eggs,3.99,http://dummyimage.com/230x100.png/cc0000/ffffff,Teal,Food - Dairy,Fresh eggs from free-range chickens.
+912,Sweet Potato Fries,3.99,http://dummyimage.com/187x100.png/cc0000/ffffff,Blue,Food - Frozen Foods,"Crispy sweet potato fries, a delicious side dish."
+913,Graphic Print Leggings,29.99,http://dummyimage.com/198x100.png/5fa2dd/ffffff,Puce,Clothing - Activewear,"Trendy leggings with a unique graphic print, versatile for workouts and casual wear."
+914,Electric Toothbrush,49.95,http://dummyimage.com/215x100.png/dddddd/000000,Khaki,Health,Rechargeable electric toothbrush with smart timer.
+915,Vegetable Pizza Rolls,6.49,http://dummyimage.com/170x100.png/dddddd/000000,Khaki,Food - Frozen Foods,"Frozen pizza rolls filled with vegetables and cheese, perfect for snacks."
+916,Tomato Basil Pasta Sauce,3.99,http://dummyimage.com/180x100.png/5fa2dd/ffffff,Mauv,Food - Sauces,Rich and flavorful pasta sauce made with ripe tomatoes and basil.
+917,Almond Quinoa Salad,5.99,http://dummyimage.com/224x100.png/dddddd/000000,Crimson,Food - Salads,"Healthy salad made with quinoa, almonds, and mixed greens, perfect for a light meal."
+918,Puffer Winter Coat,99.99,http://dummyimage.com/167x100.png/cc0000/ffffff,Orange,Clothing - Outerwear,A warm and stylish puffer coat perfect for winter weather.
+919,Multi-Cooker,89.99,http://dummyimage.com/237x100.png/5fa2dd/ffffff,Mauv,Kitchen,Versatile multi-cooker for pressure cooking and slow cooking.
+920,Lentils,2.99,http://dummyimage.com/173x100.png/dddddd/000000,Orange,Food - Grains,"High in protein, perfect for soups and stews."
+921,Strawberry Fruit Spread,3.59,http://dummyimage.com/225x100.png/5fa2dd/ffffff,Turquoise,Food - Jams & Jellies,Natural fruit spread bursting with real strawberry flavor.
+922,Essential Oil Diffuser,34.99,http://dummyimage.com/202x100.png/dddddd/000000,Puce,Health,Ultrasonic diffuser that helps create a calming atmosphere.
+923,Travel Organizer,22.99,http://dummyimage.com/238x100.png/dddddd/000000,Purple,Travel,Compact travel organizer for accessories and toiletries.
+924,Rechargeable Electric Toothbrush,49.99,http://dummyimage.com/190x100.png/dddddd/000000,Aquamarine,Health,Advanced electric toothbrush for effective cleaning.
+925,Cushion Covers,35,http://dummyimage.com/168x100.png/5fa2dd/ffffff,Aquamarine,Home,Set of decorative cushion covers for home decor.
+926,Wireless Smart Plug,19.99,http://dummyimage.com/222x100.png/5fa2dd/ffffff,Turquoise,Smart Home,Control home appliances remotely using your smartphone app.
+927,Folding Backpack Chair,49.99,http://dummyimage.com/238x100.png/ff4444/ffffff,Khaki,Outdoor,Versatile chair that easily folds up for carrying.
+928,Organic Brown Rice Cakes,3.99,http://dummyimage.com/242x100.png/cc0000/ffffff,Teal,Food - Snacks,Light and crunchy rice cakes made from organic brown rice.
+929,Sweet Chili Sauce,2.99,http://dummyimage.com/113x100.png/5fa2dd/ffffff,Fuscia,Food - Condiments,"A sweet and spicy sauce, great for dipping or cooking."
+930,Wrap Front Midi Skirt,44.99,http://dummyimage.com/155x100.png/dddddd/000000,Indigo,Clothing - Bottoms,"Elegant midi skirt with a wrap design, great for both formal and casual events."
+931,Fitbit Activity Tracker,99.99,http://dummyimage.com/194x100.png/5fa2dd/ffffff,Fuscia,Fitness,Advanced wristband that tracks daily activities and sleep.
+932,Chili Powder,2.09,http://dummyimage.com/108x100.png/ff4444/ffffff,Fuscia,Food - Spices,Spicy chili powder to add heat to dishes.
+933,Herb Seasoned Rice,2.99,http://dummyimage.com/210x100.png/cc0000/ffffff,Khaki,Food - Sides,A flavorful rice side dish seasoned with herbs and spices.
+934,Organic Black Bean Burger,4.49,http://dummyimage.com/188x100.png/dddddd/000000,Teal,Food - Frozen Foods,Delicious plant-based burger made with organic black beans and spices.
+935,Car Seat Organizer,14.99,http://dummyimage.com/231x100.png/5fa2dd/ffffff,Aquamarine,Automotive,Storage solutions for keeping your car tidy and organized.
+936,Portable Hammock Swing,59.99,http://dummyimage.com/222x100.png/ff4444/ffffff,Pink,Outdoor,Lightweight and portable swing hammock for relaxing outdoors.
+937,Patterned Knit Scarf,25.99,http://dummyimage.com/152x100.png/ff4444/ffffff,Maroon,Clothing - Accessories,Add a pop of color with this stylish patterned knit scarf.
+938,Chili Powder,2.09,http://dummyimage.com/200x100.png/5fa2dd/ffffff,Khaki,Food - Spices,Spicy chili powder to add heat to dishes.
+939,Personal Safety Alarm,12.99,http://dummyimage.com/174x100.png/dddddd/000000,Aquamarine,Safety,Compact alarm for personal safety and security.
+940,Vegan Mac & Cheese,8.99,http://dummyimage.com/211x100.png/ff4444/ffffff,Turquoise,Food - Frozen,Creamy vegan mac and cheese made with cashew cheese.
+941,Stylish Combat Boots,99.99,http://dummyimage.com/240x100.png/dddddd/000000,Purple,Clothing - Shoes,Bold combat boots that make a statement with any outfit.
+942,Traditional Hummus,3.29,http://dummyimage.com/223x100.png/dddddd/000000,Yellow,Food - Dips,Creamy chickpea dip blended with tahini and garlic.
+943,Barbecue Chicken Pizza,8.99,http://dummyimage.com/130x100.png/dddddd/000000,Maroon,Food - Frozen Foods,"Pizza topped with barbecue chicken, cheese, and red onions."
+944,Slim Fit Chinos,54.99,http://dummyimage.com/101x100.png/ff4444/ffffff,Goldenrod,Clothing - Pants,Comfortable slim fit chinos for a polished look.
+945,Low-Fat Yogurt,3.29,http://dummyimage.com/211x100.png/cc0000/ffffff,Purple,Food - Dairy,"Creamy yogurt with probiotics, available in various flavors."
+946,Cushion Covers,35,http://dummyimage.com/242x100.png/dddddd/000000,Goldenrod,Home,Set of decorative cushion covers for home decor.
+947,Athletic Sports Bra,24.99,http://dummyimage.com/120x100.png/dddddd/000000,Fuscia,Clothing - Activewear,"Supportive sports bra designed for high-impact workouts, made with moisture-wicking fabric."
+948,Smartphone Camera Lens Kit,19.99,http://dummyimage.com/138x100.png/ff4444/ffffff,Violet,Photography,Upgrade your phone photography with this lens kit that includes wide-angle and macro lenses.
+949,Wireless Earbuds Case,12.99,http://dummyimage.com/178x100.png/5fa2dd/ffffff,Red,Accessories,Protective case for wireless earbuds.
+950,Sculpting Kit,25.99,http://dummyimage.com/198x100.png/ff4444/ffffff,Khaki,Art Supplies,Complete sculpting tools for artists.
+951,Travel Pillow,22.99,http://dummyimage.com/211x100.png/5fa2dd/ffffff,Fuscia,Travel,Memory foam travel pillow for neck support.
+952,Black Bean Salsa,3.49,http://dummyimage.com/120x100.png/cc0000/ffffff,Khaki,Food - Snacks,Spicy salsa made with black beans and tomatoes.
+953,Indoor Plants,19.99,http://dummyimage.com/232x100.png/ff4444/ffffff,Fuscia,Garden,Assorted indoor plants for home decor.
+954,Hummus Trio Pack,5.49,http://dummyimage.com/102x100.png/ff4444/ffffff,Mauv,Food - Snacks,"A variety pack of classic, roasted red pepper, and garlic hummus."
+955,Caramel Apple Chips,3.49,http://dummyimage.com/209x100.png/5fa2dd/ffffff,Red,Food - Snacks,Crispy apple chips drizzled with caramel for a sweet treat.
+956,Wooden Children's Play Kitchen,129.99,http://dummyimage.com/194x100.png/cc0000/ffffff,Turquoise,Toys,Interactive kitchen set for imaginative play.
+957,Roasted Red Pepper Dip,3.29,http://dummyimage.com/146x100.png/ff4444/ffffff,Teal,Food - Snacks,"A blend of roasted red peppers and spices, perfect for dipping."
+958,Biodegradable Phone Case,23.99,http://dummyimage.com/135x100.png/cc0000/ffffff,Fuscia,Accessories,Eco-friendly phone case designed to decompose safely.
+959,Chunky Knit Sweater,59.99,http://dummyimage.com/200x100.png/ff4444/ffffff,Maroon,Clothing - Tops,Cozy oversized sweater perfect for chilly days with a textured knit design.
+960,Mango Chutney,3.99,http://dummyimage.com/248x100.png/ff4444/ffffff,Mauv,Food - Condiments,Sweet and tangy mango chutney for a flavorful dip.
+961,Magnetic Phone Car Mount,14.99,http://dummyimage.com/206x100.png/ff4444/ffffff,Crimson,Automotive,Strong magnetic holder for smartphones in cars.
+962,Salsa Verde,3.49,http://dummyimage.com/170x100.png/ff4444/ffffff,Khaki,Food - Condiments,"Tangy green salsa made with tomatillos, perfect for tacos."
+963,Maple Bacon Jerky,6.99,http://dummyimage.com/236x100.png/ff4444/ffffff,Crimson,Food - Meat,Savory bacon jerky coated with maple flavoring.
+964,Portable Hammock,27.99,http://dummyimage.com/130x100.png/5fa2dd/ffffff,Violet,Outdoor,Lightweight hammock for easy setup anywhere.
+965,Basic V-Neck T-Shirt,19.99,http://dummyimage.com/227x100.png/ff4444/ffffff,Maroon,Clothing - Tops,A staple v-neck t-shirt that pairs well with anything.
+966,Plant Pot Drip Trays,9.99,http://dummyimage.com/178x100.png/dddddd/000000,Goldenrod,Garden,Prevent water damage with drip trays for potted plants.
+967,Maple Pecan Pancake Mix,4.99,http://dummyimage.com/104x100.png/ff4444/ffffff,Blue,Food - Breakfast,"A fluffy pancake mix infused with maple and pecans, perfect for a hearty breakfast."
+968,Honeycrisp Apples,1.89,http://dummyimage.com/239x100.png/ff4444/ffffff,Orange,Food - Produce,"Crisp and sweet Honeycrisp apples, freshly picked."
+969,Cheddar Cheese Crackers,2.29,http://dummyimage.com/208x100.png/ff4444/ffffff,Blue,Food - Snacks,Crunchy crackers topped with real cheddar cheese flavor.
+970,Roasted Chickpeas,2.99,http://dummyimage.com/111x100.png/dddddd/000000,Indigo,Food - Snacks,Crispy roasted chickpeas seasoned to perfection
+971,Linen Trousers,44.99,http://dummyimage.com/231x100.png/5fa2dd/ffffff,Red,Clothing - Bottoms,Breathable linen trousers perfect for hot weather.
+972,Electric Wax Warmer,22.99,http://dummyimage.com/220x100.png/5fa2dd/ffffff,Maroon,Home,Wax warmer for creating a soothing atmosphere with fragrances.
+973,Sushi Rice,3.99,http://dummyimage.com/160x100.png/dddddd/000000,Aquamarine,Food - Grains,Short-grain sushi rice for perfect rolls.
+974,Snap-On Tupperware Set,34.99,http://dummyimage.com/220x100.png/5fa2dd/ffffff,Indigo,Kitchen,Durable and versatile food storage containers.
+975,Cushion Covers,35,http://dummyimage.com/107x100.png/dddddd/000000,Maroon,Home,Set of decorative cushion covers for home decor.
+976,Vegan Tacos,7.49,http://dummyimage.com/130x100.png/5fa2dd/ffffff,Teal,Food - Frozen Foods,Frozen vegan tacos filled with plant-based protein and spices.
+977,LED Flashlight,19.99,http://dummyimage.com/242x100.png/cc0000/ffffff,Mauv,Outdoor,Bright LED flashlight with adjustable beam.
+978,Dill Pickle Chips,2.29,http://dummyimage.com/196x100.png/cc0000/ffffff,Turquoise,Food - Condiments,Crispy dill pickles that are perfect for snacking or sandwiches.
+979,Sweet Potato Noodles,3.79,http://dummyimage.com/182x100.png/5fa2dd/ffffff,Aquamarine,Food - Pasta,"Pasta alternative made from sweet potatoes, gluten-free and rich in flavor."
+980,Mini Air Purifier,49.99,http://dummyimage.com/245x100.png/ff4444/ffffff,Goldenrod,Health,Battery-operated air purifier for small spaces.
+981,Sriracha Sauce,3.19,http://dummyimage.com/229x100.png/dddddd/000000,Blue,Food - Condiments,Spicy chili sauce for an extra kick in your meals.
+982,Sports Bottle,15.99,http://dummyimage.com/234x100.png/5fa2dd/ffffff,Aquamarine,Fitness,BPA-free sports bottle with flip-top lid.
+983,Premium Flashlight,19.99,http://dummyimage.com/243x100.png/cc0000/ffffff,Pink,Outdoor,High-intensity flashlight with adjustable focus and brightness.
+984,Air Fryer Oven,149.99,http://dummyimage.com/237x100.png/5fa2dd/ffffff,Fuscia,Kitchen,"Versatile air fryer that also roasts, bakes, and broils."
+985,Electric Stir Fry Pan,49.99,http://dummyimage.com/232x100.png/cc0000/ffffff,Crimson,Kitchen,Large stir fry pan with non-stick surface.
+986,Cucumber Relish,3.39,http://dummyimage.com/117x100.png/ff4444/ffffff,Fuscia,Food - Condiments,"Sweet relish made from cucumbers, perfect for sandwiches."
+987,Denim Jacket,69.99,http://dummyimage.com/142x100.png/dddddd/000000,Puce,Clothing - Outerwear,A classic denim jacket that never goes out of style.
+988,Dark Chocolate Covered Raisins,3.99,http://dummyimage.com/134x100.png/ff4444/ffffff,Orange,Food - Snacks,Satisfy your sweet tooth with these dark chocolate-covered raisins.
+989,Magnetic Spice Jars,24.99,http://dummyimage.com/190x100.png/ff4444/ffffff,Khaki,Kitchen,Convenient magnetic jars for easy spice storage.
+990,Barbecue Chicken Pizza,8.99,http://dummyimage.com/102x100.png/dddddd/000000,Yellow,Food - Frozen Foods,"Pizza topped with barbecue chicken, cheese, and red onions."
+991,Bodyweight Resistance Bands,22.99,http://dummyimage.com/211x100.png/dddddd/000000,Violet,Fitness,Set of resistance bands for strength training at home.
+992,Savory Quinoa Pudding,2.99,http://dummyimage.com/120x100.png/cc0000/ffffff,Blue,Food - Sides,"A delicious savory quinoa pudding, great as a side dish."
+993,Non-Stick Grill Mat,19.99,http://dummyimage.com/201x100.png/ff4444/ffffff,Crimson,Outdoor,Reusable mat that prevents food from sticking to the grill.
+994,Lentil Soup (canned),1.99,http://dummyimage.com/115x100.png/ff4444/ffffff,Crimson,Food - Canned Goods,Hearty lentil soup for a quick meal.
+995,Emergency Preparedness Kit,99.99,http://dummyimage.com/159x100.png/ff4444/ffffff,Green,Safety,Complete kit for emergency situations including food and water.
+996,Classic Cheesecake Mix,4.99,http://dummyimage.com/220x100.png/ff4444/ffffff,Red,Food - Desserts,"A simple, no-bake cheesecake mix to create your own delicious cheesecake."
+997,Italian Meatballs,8.49,http://dummyimage.com/225x100.png/5fa2dd/ffffff,Green,Food - Meat,"Juicy meatballs made with a blend of beef and pork, seasoned with Italian herbs."
+998,Juice Extractor,99.99,http://dummyimage.com/135x100.png/5fa2dd/ffffff,Mauv,Kitchen,Efficient juicer for fresh fruit and vegetable juices.
+999,Electric Fondue Pot,39.99,http://dummyimage.com/170x100.png/5fa2dd/ffffff,Puce,Kitchen,Set for making fondue at home.
+1000,Ground Turkey,5.49,http://dummyimage.com/110x100.png/cc0000/ffffff,Pink,Food - Meat,"Lean and versatile ground turkey, perfect for various dishes."
