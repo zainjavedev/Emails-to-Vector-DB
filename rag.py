@@ -1,189 +1,111 @@
-
 import os
 import logging
 from typing import List, Dict, Any
-from langchain_community.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-import chromadb
-from chromadb.utils import embedding_functions
+import psycopg2
+from psycopg2.extras import execute_values
+from sentence_transformers import SentenceTransformer
+import requests
 
-# Set up logging
-logging.basicConfig(level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+# Setup logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+def create_pgvector_connection(db_params: Dict[str, str]):
+    conn = psycopg2.connect(**db_params)
+    with conn.cursor() as cur:
+        cur.execute("CREATE EXTENSION IF NOT EXISTS vector;")
+        conn.commit()
+    return conn
 
-def extract_text_from_pdf(pdf_path: str) -> str:
-    """
-    Extract text from all pages of a PDF document.
+def embed_and_store_products(db_params: Dict[str, str],
+                             table_name: str = "product_embeddings",
+                             embedding_model_name: str = "all-MiniLM-L6-v2") -> None:
+    logger.info(f"Embedding product data and storing in {table_name}")
+    conn = create_pgvector_connection(db_params)
+    model = SentenceTransformer(embedding_model_name)
 
-    Args:
-        pdf_path: Path to the PDF file
+    with conn.cursor() as cur:
+        cur.execute(f"""
+            CREATE TABLE IF NOT EXISTS {table_name} (
+                id SERIAL PRIMARY KEY,
+                product_id INT,
+                content TEXT,
+                embedding vector(384)
+            );
+        """)
+        conn.commit()
 
-    Returns:
-        A string containing all text from the PDF
-    """
-    logger.info(f"Extracting text from PDF: {pdf_path}")
+        # Pull data from 'products' table
+        cur.execute("SELECT id, name, category, color, price, img_url FROM products;")
+        products = cur.fetchall()
 
-    try:
-        # Open the PDF
-        loader = PyPDFLoader(pdf_path)
-        docs = loader.load()
-        text = ''.join([doc.page_content for doc in docs])
-        return text
+    logger.info(f"Fetched {len(products)} products")
 
-    except Exception as e:
-        logger.error(f"Error extracting text from PDF: {str(e)}")
-        raise
+    # Prepare text and embed
+    data = []
+    for product in products:
+        pid, name, category, color, price, img_url = product
+        text = f"{name}, category: {category}, color: {color}, price: {price}, image: {img_url}"
+        embedding = model.encode(text).tolist()
+        data.append((pid, text, embedding))
 
-
-def split_text_into_chunks(text: str, chunk_size: int = 1300, chunk_overlap: int = 200) -> List[str]:
-    """
-    Split text into overlapping chunks of specified size.
-
-    Args:
-        text: The text to split
-        chunk_size: Maximum size of each chunk
-        chunk_overlap: Overlap between consecutive chunks
-
-    Returns:
-        List of text chunks
-    """
-    logger.info(f"Splitting text into chunks (size: {chunk_size}, overlap: {chunk_overlap})")
-
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=chunk_size,
-        chunk_overlap=chunk_overlap,
-        length_function=len,
-    )
-
-    chunks = text_splitter.split_text(text)
-    logger.info(f"Split text into {len(chunks)} chunks")
-
-    return chunks
-
-
-def create_vector_store(chunks: List[str], collection_name: str = "pdf_embeddings") -> chromadb.Collection:
-    """
-    Create embeddings for chunks and store them in a Chroma vector database.
-
-    Args:
-        chunks: List of text chunks to embed
-        collection_name: Name of the collection in the vector database
-
-    Returns:
-        Chroma collection with the embeddings
-    """
-    logger.info("Creating vector store with sentence-transformers embedding model")
-
-    # Initialize the client
-    chroma_client = chromadb.Client()
-
-    # Use sentence-transformers model for embeddings
-    embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
-        model_name="all-MiniLM-L6-v2"  # Free, lightweight model
-    )
-
-    # Create or get the collection
-    try:
-        collection = chroma_client.get_collection(name=collection_name)
-        logger.info(f"Using existing collection: {collection_name}")
-    except:
-        collection = chroma_client.create_collection(
-            name=collection_name,
-            embedding_function=embedding_function
+    with conn.cursor() as cur:
+        execute_values(
+            cur,
+            f"INSERT INTO {table_name} (product_id, content, embedding) VALUES %s",
+            data,
+            template="(%s, %s, %s)"
         )
-        logger.info(f"Created new collection: {collection_name}")
+        conn.commit()
 
-    # Generate IDs for chunks
-    ids = [f"chunk_{i}" for i in range(len(chunks))]
+    conn.close()
+    logger.info("Embeddings stored successfully")
 
-    # Add documents and their embeddings to the collection
-    collection.add(
-        documents=chunks,
-        ids=ids
-    )
-
-    logger.info(f"Added {len(chunks)} documents to vector store")
-    return collection
-
-
-def process_pdf(pdf_path: str, options: Dict[str, Any] = None) -> Dict[str, Any]:
-    """
-    Process a PDF file: extract text, chunk it, embed chunks, and store in vector DB.
-
-    Args:
-        pdf_path: Path to the PDF file
-        options: Dictionary of options (chunk_size, chunk_overlap, collection_name)
-
-    Returns:
-        Dictionary with results
-    """
-    # Set default options if none provided
-    if options is None:
-        options = {}
-
-    chunk_size = options.get("chunk_size", 1000)
-    chunk_overlap = options.get("chunk_overlap", 200)
-    collection_name = options.get("collection_name", "pdf_embeddings")
-
-    # Extract text from PDF
-    text = extract_text_from_pdf(pdf_path)
-
-    # Split text into chunks
-    chunks = split_text_into_chunks(text, chunk_size, chunk_overlap)
-
-    # Create vector store
-    collection = create_vector_store(chunks, collection_name)
-
-    return {
-        "text_length": len(text),
-        "chunk_count": len(chunks),
-        "collection": collection
-    }
-
-
-def perform_search(collection, query: str, n_results: int = 3) -> List[Dict[str, Any]]:
-    """
-    Search the vector store for chunks similar to the query.
-
-    Args:
-        collection: Chroma collection to search
-        query: Search query
-        n_results: Number of results to return
-
-    Returns:
-        List of most similar chunks with metadata
-    """
+def perform_search(db_params: Dict[str, str],
+                   query: str,
+                   table_name: str = "product_embeddings",
+                   n_results: int = 3,
+                   embedding_model_name: str = "all-MiniLM-L6-v2") -> Dict[str, List[Any]]:
     logger.info(f"Searching for: '{query}'")
 
-    results = collection.query(
-        query_texts=[query],
-        n_results=n_results
-    )
+    model = SentenceTransformer(embedding_model_name)
+    query_embedding = model.encode(query).tolist()
+    conn = create_pgvector_connection(db_params)
 
-    return results
+    with conn.cursor() as cur:
+        cur.execute(f"""
+            SELECT product_id, content, embedding <-> %s::vector AS distance
+            FROM {table_name}
+            ORDER BY distance ASC
+            LIMIT %s;
+        """, (query_embedding, n_results))
+        results = cur.fetchall()
+    conn.close()
+
+    return {
+        "ids": [r[0] for r in results],
+        "documents": [r[1] for r in results],
+        "distances": [float(r[2]) for r in results]
+    }
 
 def call_openrouter_llm(context: str, query: str, api_key: str) -> str:
-    """
-    Use OpenRouter API to generate an answer using provided context.
-
-    Args:
-        context: Retrieved document chunks
-        query: User query
-        api_key: OpenRouter API key
-
-    Returns:
-        LLM-generated answer
-    """
-    import requests
-
     system_prompt = (
-        "You are a strict assistant. You must answer only if the provided context contains the answer "
-        "and the question is about computers. If not, respond with exactly: 'I only know about computers.' "
-        "Do not say anything else. Do not explain. Do not reference the context, the question, or limitations. "
-        "If unsure or the answer is not directly in context, say only: 'I only know about computers.' "
-        "Never say anything else."
+        "You are a smart assistant that helps users find and resolve queries about products. "
+        "You can only answer using the provided product context. Your job is to:\n\n"
+        "1. Understand what product or information the user is looking for.\n"
+        "2. Use only the given context to find relevant products.\n"
+        "3. Respond with matching product data in JSON format.\n"
+        "4. If no relevant product is found, respond with exactly:\n"
+        "   'sorry we don't have any product'.\n"
+        "5. If the user asks about anything unrelated to products, reply with:\n"
+        "   'I only know about products, nothing else.'\n"
+        "6. If no product context is provided or available for the query, say:\n"
+        "   'sorry i can not help u with it'.\n\n"
+        "Stay helpful, focused on products, and do not answer beyond product-related information.\n\n"
+        "Your response must be a JSON object with these keys:\n"
+        "- 'response': little bit of description of what u found or not found'\n"
+        "- 'products': a list of matching product objects (with filtered keys depending on user query).\n"
+        "- 'follow-up_question': a helpful suggestion (e.g., 'Would you like to see some books?') dont suggest products out of our scope\n"
     )
 
     payload = {
@@ -199,48 +121,33 @@ def call_openrouter_llm(context: str, query: str, api_key: str) -> str:
         "Content-Type": "application/json"
     }
 
-    response = requests.post(
-        "https://openrouter.ai/api/v1/chat/completions",
-        headers=headers,
-        json=payload
-    )
-
-    response_json = response.json()
-
     try:
-        return response_json['choices'][0]['message']['content']
+        response = requests.post("https://openrouter.ai/api/v1/chat/completions",
+                                 headers=headers,
+                                 json=payload)
+        response.raise_for_status()
+        return response.json()['choices'][0]['message']['content']
     except Exception as e:
-        return f"Failed to get response from LLM: {response_json}"
+        logger.error(f"LLM API error: {e}")
+        return "LLM call failed."
 
-
-def main():
-    """Main function to demonstrate PDF processing and searching."""
-    # Path to your PDF file
-    pdf_path = "data/Ch.01_Introduction_ to_computers.pdf"
-    query = input("Enter your query: ")
-    # Processing options
-    options = {
-        "chunk_size": 1000,
-        "chunk_overlap": 200,
-        "collection_name": "my_pdf_collection"
+def start_conversation():
+    db_params = {
+        "host": os.getenv("POSTGRES_HOST", "localhost"),
+        "port": os.getenv("POSTGRES_PORT", "5432"),
+        "database": os.getenv("POSTGRES_DB", "ecom"),
+        "user": os.getenv("POSTGRES_USER", "postgres"),
+        "password": os.getenv("POSTGRES_PASSWORD", "admin")
     }
+    print("Rag Bot: Hello there what you wanna know about products? \n" )
+    embed_and_store_products(db_params)
 
-    # Process the PDF
-    result = process_pdf(pdf_path, options)
-    logger.info(f"Processed PDF with {result['chunk_count']} chunks")
+    query = input("You: ")
+    search_results = perform_search(db_params, query)
+    context = "\n\n".join(search_results["documents"])
 
-    ## Perform a search
-    search_results = perform_search(result["collection"], query, n_results=3)
-
-    # Get top chunks as context
-    retrieved_chunks = search_results.get("documents", [[]])[0]
-    context = "\n\n".join(retrieved_chunks)
-
-    # Call OpenRouter LLM
-    api_key = os.getenv("OPENROUTER_API_KEY")
+    api_key = os.getenv("OPEN_ROUTER_API_KEY")  # Replace with your actual key
     answer = call_openrouter_llm(context, query, api_key)
-
     print("\n🧠 Answer:\n", answer)
 
-main()
-
+start_conversation()
